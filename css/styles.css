@@ -1,162 +1,275 @@
-@font-face {
-	font-family: Falco;
-	src: url("../fonts/Falco Black.ttf");
+/* Custom CSS RULES !IMPORTANT*/
+/*Events Styles*/
+
+.event {
+  padding: 1rem 1rem 1rem 0 !important;
+  display: table !important; }
+
+.event-date {
+  width: 6rem !important;
+  margin: 0 auto 1rem !important;
+  display: table-cell !important;
+  width: auto !important; }
+  .event-date .event-month {
+    margin: 0 !important;
+    background: #343434 !important;
+    padding: 0.5rem 2rem !important;
+    text-align: center !important;
+  	color: white;
+  }
+
+  .event-date .event-day {
+    margin: 0 !important;
+    border: 1px solid #000 !important;
+    padding: 0 2rem !important;
+    text-align: center !important;
+    font-size: 2rem !important;
+  	background: #FFF !important;
+  }
+
+.event-date .important {
+	background-color: #EB2F15 !important;
 }
 
-@font-face {
-	font-family: Centuma-Thin;
-	src: url("../fonts/Centuma-Regular.otf");
+.event-desc {
+  padding: 0 0 0 1rem !important;
+  text-align: left !important;
+  display: table-cell !important;
+  vertical-align: top !important; }
+  .event-desc .event-desc-header {
+    margin: 0 0 0.5rem 0 !important;
+    padding: 0 !important; }
+  .event-desc .event-desc-detail {
+    margin: 0 0 0.25rem;
+    padding: 0; }
+  .event-desc .event-desc-time {
+    font-weight: bold; }
+  .event-desc .rsvp.button {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin: 0;
+  	background-color: #395B7C !important;}
+
+/*Icon Font Styles*/
+.icon-font {
+	color:white;
+	font-size: 2em;
+	margin: 0 1vw;
+	padding: 0 !important;
 }
 
-@font-face {
-	font-family: Centuma-Bold;
-	src: url("../fonts/Centuma-Bold.otf");
+/*Max image height preventing fullscreen images
+
+APPLY TO ALL IMAGES
+*/
+.image-max {
+	max-height: 50vh !important;
+}
+/*Top nav section*/
+.logo {
+  width: 30px;
+  margin-left: 5px; }
+
+@media only screen and (min-width: 40.063em) {
+  .top-bar {
+    height: 2vh;
+    padding-top: 3rem;
+    position: relative; }
+
+  .social-icons {
+    position: absolute;
+    right: 0;
+    top: -45px; }
+
+  .logo {
+    width: 70px;
+    margin-top: -2.3rem; } }
+@media only screen and (min-width: 40.063em) {
+  .social-icons {
+    top: -35px; } }
+
+/*Split to Action buttons*/
+.action-button{
+	font-size: 0.875rem !important;
+	text-shadow: #000 0px 0px 5px;
+	color: #FFF !important;
+	text-transform: uppercase !important;
+	display: block !important;
+	font-weight: bold !important;
+	letter-spacing: 1px !important;
+	background: rgba(250,250,250,0.2) !important;
+	border: solid white 2px !important;
 }
 
-body {
-	font-family: Centuma-Thin;
+.action-button.is-active {
+	background: #fff !important;
+	color: #333 !important;
+	text-shadow: none;
 }
 
-header,
-.title-bar {
-	display: flex;
-	justify-content: center;
-	background-color: #343434;
-	color: white;
-	align-items: center;
-	flex-direction: column;
+.action-button:hover:not(.is-active) {
+	background: rgba(250, 250, 250, 0.7) !important;
+	color: #333 !important;
+	transition:  all .25s ease-in-out;
+	text-shadow: none;
 }
 
-.action-image {
-	display: flex;
-	justify-content: center;
-	width: 100%;
-	height: 55vh;
-	background-image: url(cis.jpg);
-	/*	background-image: url("http://placehold.it/809x300");*/
+.action-button.is-active {
+	background: #fff !important;
+	color: #333 !important;
+	text-shadow: none;
+}
+.center-div {
+padding-top: 10rem !important;
+}
+
+.large-offset-0-5 {
+		margin-left: 4.16666666% !important;
+	}
+
+/**/
+
+.header {
+	background: url("../resources/img/CIS%20Card%20Rock.jpg") no-repeat center center;
+	background-size: cover;
+	height: 20rem;
+}
+
+.header h1,
+.header h4 {
+	color: #666;
+}
+
+.large-box {
+	padding 100vw;
+}
+
+.subnav {
+	float: none;
+	position: relative;
+	top: 2.2rem;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+@media only screen and (max-width: 40em) {
+	.sub-nav li a {
+}
+}
+
+@media only screen and (max-width: 40.063em) {
+	.subnav li a{
+	padding: 5vw 5vw;
+
+	}
 	
-	background-repeat: no-repeat;
+}
+@media only screen and (min-width: 40.063em){
+	.subnav li a{
+		padding: 2vw 10vw ;
+
+}
+}
+
+.subnav li {
+	float: none;
+	display: inline-block;
+	border: 2px solid white;
+	margin: 10rem 0 5rem;
+}
+
+.subnav li a {
+	font-size: 0.875rem;
+	color: #fff;
+	text-transform: uppercase;
+	display: block;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.subnav li a.is-active {
+	background: #fff;
+	color: #333;
+}
+
+.subnav li a:hover:not(.is-active) {
+	background: rgba(250, 250, 250, 0.7);
+	color: #333;
+	transition: all .25s ease-in-out;
+}
+
+.cover-bg {
 	background-size: cover;
 	background-position: center;
 }
 
-.what-is,
-.new-members {
-	margin: 2em;
-	padding: 1em;
-	flex: 1;
-	text-align: center;
-	max-width: 20%;
-	border: #d9d9d9 solid 3px;
-	background: linear-gradient(#5A8CB9, #395B7C);
-, );
-}
-
-.what-is {
-	align-self: flex-end;
-}
-
-a:link,
-a:visited,
-a:active {
+.dark {
+	background-color: #343434 !important;
 	color: white;
-	text-decoration: none;
 }
-
-.what-is:hover,
-.new-members:hover {
-	background: #A9C6DF;
-	border: white 3px solid;
-}
-
-.new-members {
-	align-self: flex-end;
-}
-
-.title {
-	font-family: Centuma-Bold;
-	text-align: center;
-	font-size: 2.7em;
-	padding: 0.5em;
-}
-
-nav {
-	border-top: solid white 5px;
-	display: flex;
-	align-content: space-between;
-	justify-content: space-between;
-	width: 30em;
-	font-family: Centuma-Thin;
-}
-
-.logo {
-	padding-bottom: 1em;
-	margin-bottom: 0;
-}
-.home:hover, .opportunities:hover, .events:hover, .about:hover, .search:hover{
-	background-color: #A9C6DF ;
-}
-
-.menu {
-	flex-shrink: 0;
-	flex-basis: auto;	
-	display: flex;
-	align-self: center;
-	padding: 1em;
-}
-
-.title-bar > div {
-	margin: 0em 1em 0em 1em;
-}
-
-content {
-	display: flex;
-	background-color: #D9D9D9;
-	flex-direction: column;
-}
-
-.side {
-	flex: 1;
-}
-
-.news {
-	flex: 1;
-}
-.main {
-	display: flex;
-	flex-direction: row;
-}
-.side,
-.news {
-	border-radius: 10px;
-	padding: 4em 3em;
-	margin: 1em;
-	display: flex;
-	flex-direction: column;
-}
-
-h2 {
-	margin: 0 0 1em;
-	font-size: 1.4em;
-	font-family: Centuma-Bold;
-}
-
-footer {
-	background-color: #343434;
+.xtra-dark {
+	background-color: #000000;
 	color: white;
 }
 
-.connect {
-	display: flex;
-	align-content: center;
-	justify-content: space-around;
-	padding: 1em;
+.highlight {
+	background-color: #C2D5EB !important;
 }
 
-.connect a {
-	text-align: center;
-	align-self: ;
+.light *{
+	background-color: #D9D9D9 !important;
 }
-.active {
-	background-color: #a9c6df;
+
+.dark-blue {
+	background-color: #1D324F !important;
+}
+
+.no-border {
+	border: none;
+}
+
+.title-line {
+	border: none;
+	border-bottom: solid white 5px;
+}
+
+.full-width {
+	width: 100% !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	max-width: initial !important;
+}
+
+.action-image {
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.vertical-center {
+	padding-top: 30vh;
+	padding-bottom: 5vh;
+}
+
+.top-bar-section ul {
+	display: table;
+	margin: 0 auto;
+}
+
+.top-bar-section ul li {
+	display: table-cell;
+}
+
+@media only screen and (max-width: 40.063em) {
+	div.icon-bar.label-right > * {
+		text-align: left;
+	}
+	div.icon-bar {
+		height: 100%;
+		width: auto;
+	}
+	div.icon-bar .item {
+		width: auto !important;
+		margin: auto;
+		float: none;
+	}
 }

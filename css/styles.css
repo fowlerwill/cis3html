@@ -1,6 +1,9 @@
 /* Custom CSS RULES !IMPORTANT*/
 /*Events Styles*/
 
+.white-text {
+	color: white;
+}
 .event {
   padding: 1rem 1rem 1rem 0 !important;
   display: table !important; }
@@ -130,7 +133,7 @@ padding-top: 10rem !important;
 /**/
 
 .header {
-	background: url("../resources/img/CIS%20Card%20Rock.jpg") no-repeat center center;
+	background: url("../img/CIS%20Card%20Rock.jpg") no-repeat center center;
 	background-size: cover;
 	height: 20rem;
 }
@@ -141,7 +144,7 @@ padding-top: 10rem !important;
 }
 
 .large-box {
-	padding 100vw;
+	padding: 100vw;
 }
 
 .subnav {
@@ -203,9 +206,9 @@ padding-top: 10rem !important;
 	background-position: center;
 }
 
+
 .dark {
 	background-color: #343434 !important;
-	color: white;
 }
 .xtra-dark {
 	background-color: #000000;

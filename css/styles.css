@@ -1,4 +1,27 @@
 /* Custom CSS RULES */
+/*Nav Bar Top*/
+
+.logo {
+  width: 40px;
+  margin-left: 5px; }
+
+@media only screen and (min-width: 40.063em) {
+  .top-bar {
+    height: 6rem;
+    padding-top: 3rem;
+    position: relative; }
+
+  .social-icons {
+    position: absolute;
+    right: 0;
+    top: -45px; }
+
+  .logo {
+    width: 70px;
+    margin-top: -2.3rem; } }
+@media only screen and (min-width: 40.063em) {
+  .social-icons {
+    top: -35px; } }
 
 
 /*fonts*/
@@ -257,15 +280,16 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	background-size: cover;
 	background-position: center;
 }
+.xtra-dark{
+	background-color: #000000;
+	color: white;
+}
 
 .dark {
 	background-color: #343434;
 }
 
-.xtra-dark {
-	background-color: #000000;
-	color: white;
-}
+
 
 .highlight {
 	background-color: #C2D5EB;

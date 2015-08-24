@@ -3,6 +3,20 @@
 
 /*Nav Bar Top*/
 
+.top-bar-section ul li:hover:not(.has-form) > a {
+	background-color: #555555;
+	color: #FFFFFF;
+	background: #222222;
+}
+
+.top-bar-section ul li.active > a {
+	background: #A9C6DF !important;
+}
+
+.top-bar-section ul li.active > a:hover {
+	background: #6AA4D8 !important;
+}
+
 .logo {
 	width: 40px;
 	margin-left: 5px;
@@ -74,7 +88,7 @@ h6 {
 
 @media only screen and (min-width: 60.0625em) {
 	.cis-title {
-		font-size: 3em;
+		font-size: 2.3em;
 	}
 }
 
@@ -163,6 +177,12 @@ h6 {
 	padding: 0;
 }
 
+.icon-font-small {
+	color: white;
+	font-size: 1.3em;
+
+}
+
 
 /*Max image height preventing fullscreen images
 
@@ -171,6 +191,10 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 
 .image-max {
 	max-height: 30vh;
+}
+
+.logo-max-height {
+	max-height: 12rem;
 }
 
 

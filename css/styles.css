@@ -1,134 +1,189 @@
-/* Custom CSS RULES !IMPORTANT*/
-/*Events Styles*/
+/* Custom CSS RULES */
+
+
+/*fonts*/
+
+@font-face {
+	font-family: Centuma-Thin;
+	src: url("fonts/Centuma-Regular.otf");
+}
+
+@font-face {
+	font-family: Centuma-Bold;
+	src: url("fonts/Centuma-Bold.otf");
+}
+
+
+/*Font family styles*/
+
+html * {
+	font-family: centuma-thin;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: centuma-bold;
+}
+
+@media only screen and (max-width: 40.063em) {
+	.cis-title {
+		font-size: 1em;
+	}
+}
+
+@media only screen and (min-width: 40.063em) {
+	.cis-title {
+		font-size: 2em;
+	}
+}
+
+@media only screen and (min-width: 60.0625em) {
+	.cis-title {
+		font-size: 3em;
+	}
+}
+
+.cis-title {
+	color: white;
+}
+
+
+/*Events Page Styles*/
 
 .white-text {
 	color: white;
 }
+
 .event {
-  padding: 1rem 1rem 1rem 0 !important;
-  display: table !important; }
+	padding: 1rem 1rem 1rem 0;
+	display: table;
+}
 
 .event-date {
-  width: 6rem !important;
-  margin: 0 auto 1rem !important;
-  display: table-cell !important;
-  width: auto !important; }
-  .event-date .event-month {
-    margin: 0 !important;
-    background: #343434 !important;
-    padding: 0.5rem 2rem !important;
-    text-align: center !important;
-  	color: white;
-  }
+	width: 6rem;
+	margin: 0 auto 1rem;
+	display: table-cell;
+	width: auto;
+}
 
-  .event-date .event-day {
-    margin: 0 !important;
-    border: 1px solid #000 !important;
-    padding: 0 2rem !important;
-    text-align: center !important;
-    font-size: 2rem !important;
-  	background: #FFF !important;
-  }
+.event-date .event-month {
+	margin: 0;
+	background: #343434;
+	padding: 0.5rem 2rem;
+	text-align: center;
+	color: white;
+}
+
+.event-date .event-day {
+	margin: 0;
+	border: 1px solid #000;
+	padding: 0 2rem;
+	text-align: center;
+	font-size: 2rem;
+	background: #FFF;
+}
 
 .event-date .important {
-	background-color: #EB2F15 !important;
+	background-color: #EB2F15;
 }
 
 .event-desc {
-  padding: 0 0 0 1rem !important;
-  text-align: left !important;
-  display: table-cell !important;
-  vertical-align: top !important; }
-  .event-desc .event-desc-header {
-    margin: 0 0 0.5rem 0 !important;
-    padding: 0 !important; }
-  .event-desc .event-desc-detail {
-    margin: 0 0 0.25rem;
-    padding: 0; }
-  .event-desc .event-desc-time {
-    font-weight: bold; }
-  .event-desc .rsvp.button {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    margin: 0;
-  	background-color: #395B7C !important;}
+	padding: 0 0 0 1rem;
+	text-align: left;
+	display: table-cell;
+	vertical-align: top;
+}
 
-/*Icon Font Styles*/
+.event-desc .event-desc-header {
+	margin: 0 0 0.5rem 0;
+	padding: 0;
+}
+
+.event-desc .event-desc-detail {
+	margin: 0 0 0.25rem;
+	padding: 0;
+}
+
+.event-desc .event-desc-time {
+	font-weight: bold;
+}
+
+.event-desc .rsvp.button {
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	margin: 0;
+	background-color: #395B7C;
+}
+
+
+/*Home page and generic styles here on*/
+
+
+/*Icon Font Styles in Footer*/
+
 .icon-font {
-	color:white;
+	color: white;
 	font-size: 2em;
 	margin: 0 1vw;
-	padding: 0 !important;
+	padding: 0;
 }
+
 
 /*Max image height preventing fullscreen images
 
-APPLY TO ALL IMAGES
+APPLY TO ALL IMAGES EXCEPT TITLE IMG
 */
+
 .image-max {
-	max-height: 50vh !important;
+	max-height: 50vh;
 }
-/*Top nav section*/
-.logo {
-  width: 30px;
-  margin-left: 5px; }
 
-@media only screen and (min-width: 40.063em) {
-  .top-bar {
-    height: 2vh;
-    padding-top: 3rem;
-    position: relative; }
 
-  .social-icons {
-    position: absolute;
-    right: 0;
-    top: -45px; }
+/*Call-2-Action Buttons*/
 
-  .logo {
-    width: 70px;
-    margin-top: -2.3rem; } }
-@media only screen and (min-width: 40.063em) {
-  .social-icons {
-    top: -35px; } }
-
-/*Split to Action buttons*/
-.action-button{
-	font-size: 0.875rem !important;
+.action-button {
+	font-size: 0.875rem;
 	text-shadow: #000 0px 0px 5px;
-	color: #FFF !important;
-	text-transform: uppercase !important;
-	display: block !important;
-	font-weight: bold !important;
-	letter-spacing: 1px !important;
-	background: rgba(250,250,250,0.2) !important;
-	border: solid white 2px !important;
+	color: #FFF;
+	text-transform: uppercase;
+	display: block;
+	font-weight: bold;
+	letter-spacing: 1px;
+	background: rgba(250, 250, 250, 0.2);
+	border: solid white 2px;
 }
 
 .action-button.is-active {
-	background: #fff !important;
-	color: #333 !important;
+	background: #fff;
+	color: #333;
 	text-shadow: none;
 }
 
 .action-button:hover:not(.is-active) {
-	background: rgba(250, 250, 250, 0.7) !important;
-	color: #333 !important;
-	transition:  all .25s ease-in-out;
+	background: rgba(250, 250, 250, 0.7);
+	color: #333;
+	transition: all .25s ease-in-out;
 	text-shadow: none;
 }
 
 .action-button.is-active {
-	background: #fff !important;
-	color: #333 !important;
+	background: #fff;
+	color: #333;
 	text-shadow: none;
 }
+
 .center-div {
-padding-top: 10rem !important;
+	padding-top: 10rem;
 }
 
 .large-offset-0-5 {
-		margin-left: 4.16666666% !important;
-	}
+	margin-left: 4.16666666%;
+}
+
 
 /**/
 
@@ -156,22 +211,19 @@ padding-top: 10rem !important;
 }
 
 @media only screen and (max-width: 40em) {
-	.sub-nav li a {
-}
+	.sub-nav li a {}
 }
 
 @media only screen and (max-width: 40.063em) {
-	.subnav li a{
-	padding: 5vw 5vw;
-
+	.subnav li a {
+		padding: 5vw 5vw;
 	}
-	
 }
-@media only screen and (min-width: 40.063em){
-	.subnav li a{
-		padding: 2vw 10vw ;
 
-}
+@media only screen and (min-width: 40.063em) {
+	.subnav li a {
+		padding: 2vw 10vw;
+	}
 }
 
 .subnav li {
@@ -206,25 +258,25 @@ padding-top: 10rem !important;
 	background-position: center;
 }
 
-
 .dark {
-	background-color: #343434 !important;
+	background-color: #343434;
 }
+
 .xtra-dark {
 	background-color: #000000;
 	color: white;
 }
 
 .highlight {
-	background-color: #C2D5EB !important;
+	background-color: #C2D5EB;
 }
 
-.light *{
-	background-color: #D9D9D9 !important;
+.light * {
+	background-color: #D9D9D9;
 }
 
 .dark-blue {
-	background-color: #1D324F !important;
+	background-color: #1D324F;
 }
 
 .no-border {
@@ -237,10 +289,10 @@ padding-top: 10rem !important;
 }
 
 .full-width {
-	width: 100% !important;
-	margin-left: auto !important;
-	margin-right: auto !important;
-	max-width: initial !important;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: initial;
 }
 
 .action-image {
@@ -271,7 +323,7 @@ padding-top: 10rem !important;
 		width: auto;
 	}
 	div.icon-bar .item {
-		width: auto !important;
+		width: auto;
 		margin: auto;
 		float: none;
 	}

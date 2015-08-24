@@ -1,27 +1,35 @@
 /* Custom CSS RULES */
+
+
 /*Nav Bar Top*/
 
 .logo {
-  width: 40px;
-  margin-left: 5px; }
+	width: 40px;
+	margin-left: 5px;
+}
 
 @media only screen and (min-width: 40.063em) {
-  .top-bar {
-    height: 6rem;
-    padding-top: 3rem;
-    position: relative; }
+	.top-bar {
+		height: 6rem;
+		padding-top: 3rem;
+		position: relative;
+	}
+	.social-icons {
+		position: absolute;
+		right: 0;
+		top: -45px;
+	}
+	.logo {
+		width: 70px;
+		margin-top: -2.3rem;
+	}
+}
 
-  .social-icons {
-    position: absolute;
-    right: 0;
-    top: -45px; }
-
-  .logo {
-    width: 70px;
-    margin-top: -2.3rem; } }
 @media only screen and (min-width: 40.063em) {
-  .social-icons {
-    top: -35px; } }
+	.social-icons {
+		top: -35px;
+	}
+}
 
 
 /*fonts*/
@@ -70,7 +78,7 @@ h6 {
 	}
 }
 
-.cis-title {
+.white-text {
 	color: white;
 }
 
@@ -162,11 +170,11 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 */
 
 .image-max {
-	max-height: 50vh;
+	max-height: 30vh;
 }
 
 
-/*Call-2-Action Buttons*/
+/*Call-2-Action Buttons and background image*/
 
 .action-button {
 	font-size: 0.875rem;
@@ -208,7 +216,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 }
 
 
-/**/
+/*Background image for call 2 action*/
 
 .header {
 	background: url("../img/CIS%20Card%20Rock.jpg") no-repeat center center;
@@ -234,7 +242,10 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 }
 
 @media only screen and (max-width: 40em) {
-	.sub-nav li a {}
+	.header {
+		height: 30vh;
+		min-height: 12em;
+	}
 }
 
 @media only screen and (max-width: 40.063em) {
@@ -280,7 +291,8 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	background-size: cover;
 	background-position: center;
 }
-.xtra-dark{
+
+.xtra-dark {
 	background-color: #000000;
 	color: white;
 }
@@ -288,8 +300,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 .dark {
 	background-color: #343434;
 }
-
-
 
 .highlight {
 	background-color: #C2D5EB;

@@ -50,12 +50,12 @@
 
 @font-face {
 	font-family: Centuma-Thin;
-	src: url("fonts/Centuma-Regular.otf");
+	src: url("../fonts/Centuma-Regular.otf");
 }
 
 @font-face {
 	font-family: Centuma-Bold;
-	src: url("fonts/Centuma-Bold.otf");
+	src: url("../fonts/Centuma-Bold.otf");
 }
 
 

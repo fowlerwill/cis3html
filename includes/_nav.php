@@ -14,10 +14,11 @@
     <section class="top-bar-section">
         <!-- Right Nav Section -->
         <ul class="right text-center">
-            <li class="active"><a href="index.html">Home</a></li>
+            <li class="active"><a href="home">Home</a></li>
 
-            <li class=""><a href="../events.html">Events</a></li>
-            <li class=""><a href="../events.html">Opportunities</a></li>
+            <li class=""><a href="forEmployers">For Employers</a></li>
+            <li class=""><a href="events">Events</a></li>
+            <li class=""><a href="executive">Executive</a></li>
             <li class="has-dropdown">
                 <a href="#">About</a>
                 <ul class="dropdown">

@@ -12,7 +12,7 @@
 
 <div class="row">
     <div class="columns text-center small-8 small-offset-2">
-        <h1 class="cis-title white-text">Computer Information Systems Student's Society</h1>
+        <h1 class="cis-title white-text">Computer Information Systems Student Society</h1>
     </div>
 </div>
 
@@ -22,15 +22,19 @@
 <div id="introImage" class="row fullWidth margin-top-double"></div>
 
 <!--
-    CALL TO ACTION
+    CALL TO ACTION BUTTONS
 -->
 <div class="row padding-top-double">
-    <div class="medium-6 columns text-center">
-        <a class="button expand action-button">What is CIS3?</a>
+    <div class="medium-4 columns text-center">
+        <a class="button expand action-button" href="forEmployers">Hire a student</a>
     </div>
 
-    <div class="medium-6 columns text-center">
-        <a class="button expand action-button">New Students!</a>
+    <div class="medium-4 columns text-center">
+        <a class="button expand action-button" href="events">See our events</a>
+    </div>
+
+    <div class="medium-4 columns text-center">
+        <a class="button expand action-button" href="executive">Your club executives</a>
     </div>
 </div>
 

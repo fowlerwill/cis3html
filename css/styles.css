@@ -1,7 +1,132 @@
 /* Custom CSS RULES */
 
+/* = FONTS
+-----------------------------------------------------------------------------*/
 
-/*Nav Bar Top*/
+@font-face {
+    font-family: Centuma-Thin;
+    src: url("../fonts/Centuma-Regular.otf");
+}
+
+@font-face {
+    font-family: Centuma-Bold;
+    src: url("../fonts/Centuma-Bold.otf");
+}
+html * {
+    font-family: centuma-thin;
+}
+body *:not(.light *) {
+    color: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: centuma-bold;
+}
+
+@media only screen and (max-width: 40.063em) {
+    .cis-title {
+        font-size: 1em;
+    }
+}
+
+@media only screen and (min-width: 40.063em) {
+    .cis-title {
+        font-size: 2em;
+    }
+}
+
+@media only screen and (min-width: 60.0625em) {
+    .cis-title {
+        font-size: 2.3em;
+    }
+}
+
+/* = HTML & GENERAL ELEMENTS
+-----------------------------------------------------------------------------*/
+
+.fullWidth {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: initial;
+}
+
+.padding {
+    padding: 0.9375rem;
+}
+.padding-top {
+    padding-top: 0.9375rem;
+}
+.padding-bottom {
+    padding-bottom: 0.9375rem;
+}
+.padding-double {
+    padding: 1.875rem;
+}
+.padding-top-double {
+    padding-top: 1.875rem;
+}
+.padding-bottom-double {
+    padding-bottom: 1.875rem;
+}
+.margin {
+    margin: 0.9375rem;
+}
+.margin-top {
+    margin-top: 0.9375rem;
+}
+.margin-bottom {
+    margin-bottom: 0.9375rem;
+}
+.margin-double {
+    margin: 1.875rem;
+}
+.margin-top-double {
+    margin-top: 1.875rem;
+}
+.margin-bottom-double {
+    margin-bottom: 1.875rem;
+}
+
+/*Icon Font Styles in Footer*/
+
+.icon-font {
+    color: white;
+    font-size: 2em;
+    margin: 0 1vw;
+    padding: 0;
+}
+
+.icon-font-small {
+    color: white;
+    font-size: 1.3em;
+
+}
+
+/*Max image height preventing fullscreen images
+APPLY TO ALL IMAGES EXCEPT TITLE IMG
+*/
+
+.image-max {
+    max-height: 30vh;
+}
+
+.logo-max-height {
+    max-height: 12rem;
+}
+
+#pageWrapper {
+    min-height: 600px;
+    min-height: 60vh;
+}
+
+/* = Nav Bar Top
+-----------------------------------------------------------------------------*/
 
 .top-bar-section ul li:hover:not(.has-form) > a {
 	background-color: #555555;
@@ -51,59 +176,8 @@
 	}
 }
 
-
-/*fonts*/
-
-@font-face {
-	font-family: Centuma-Thin;
-	src: url("../fonts/Centuma-Regular.otf");
-}
-
-@font-face {
-	font-family: Centuma-Bold;
-	src: url("../fonts/Centuma-Bold.otf");
-}
-
-
-/*Font family styles*/
-
-html * {
-	font-family: centuma-thin;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	font-family: centuma-bold;
-}
-
-@media only screen and (max-width: 40.063em) {
-	.cis-title {
-		font-size: 1em;
-	}
-}
-
-@media only screen and (min-width: 40.063em) {
-	.cis-title {
-		font-size: 2em;
-	}
-}
-
-@media only screen and (min-width: 60.0625em) {
-	.cis-title {
-		font-size: 2.3em;
-	}
-}
-
-.white-text {
-	color: white;
-}
-
-
-/*Events Page Styles*/
+/* = EVENTS PAGE
+-----------------------------------------------------------------------------*/
 
 .white-text {
 	color: white;
@@ -171,39 +245,6 @@ h6 {
 }
 
 
-/*Home page and generic styles here on*/
-
-
-/*Icon Font Styles in Footer*/
-
-.icon-font {
-	color: white;
-	font-size: 2em;
-	margin: 0 1vw;
-	padding: 0;
-}
-
-.icon-font-small {
-	color: white;
-	font-size: 1.3em;
-
-}
-
-
-/*Max image height preventing fullscreen images
-
-APPLY TO ALL IMAGES EXCEPT TITLE IMG
-*/
-
-.image-max {
-	max-height: 30vh;
-}
-
-.logo-max-height {
-	max-height: 12rem;
-}
-
-
 /*Call-2-Action Buttons and background image*/
 
 .action-button {
@@ -248,7 +289,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 
 /*Background image for call 2 action*/
 
-.header {
+#introImage {
 	background: url("../img/CIS%20Card%20Rock.jpg") no-repeat center center;
 	background-size: cover;
 	height: 20rem;

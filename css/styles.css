@@ -382,10 +382,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	color: white;
 }
 
-.logo-body {
-/*	height: 50vh;*/
-}
-
 .logo-container {
 	-webkit-transform: skew(0deg, 1deg);
 	    -ms-transform: skew(0deg, 1deg);

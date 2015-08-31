@@ -1,7 +1,9 @@
 <!--
     LOGO
 -->
-<div class="row dark ">
+<div class="highlight logo-body">
+<div class="logo-container full-width dark">
+<div class="row title-">
     <div class="text-center large-8 columns large-offset-2 small-8 small-offset-2 title-line">
         <a href="index.html"><img class="logo-max-height" src="" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
             <noscript><img src="img/CIS-v2.png">
@@ -10,11 +12,13 @@
     </div>
 </div>
 
-<div class="row">
+<div class="row ">
     <div class="columns text-center small-8 small-offset-2">
         <h1 class="cis-title white-text">Computer Information Systems Student Society</h1>
     </div>
 </div>
+</div>
+	</div>
 
 <!--
     FULL WIDTH IMAGE
@@ -40,7 +44,7 @@
 
 <!--	Main Content Area	  -->
 
-<div class="light row">
+<div class="light dark-font row">
     <div class="column small-12 padding-top padding-bottom">
         <div class="row">
             <div class="large-4 columns">

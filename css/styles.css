@@ -17,6 +17,7 @@ html * {
 }
 body * {
     color: #ffffff;
+	z-index: 1;
 }
 .light {
     color: #222222;
@@ -90,7 +91,7 @@ h6 {
     margin: 1.875rem;
 }
 .margin-top-double {
-    margin-top: 1.875rem;
+    margin-top: 0rem;
 }
 .margin-bottom-double {
     margin-bottom: 1.875rem;
@@ -301,6 +302,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	background: url("../img/CIS%20Card%20Rock.jpg") no-repeat center center;
 	background-size: cover;
 	height: 20rem;
+	z-index: 2;
 }
 
 .header h1,
@@ -371,9 +373,31 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	background-position: center;
 }
 
+.title-bg {
+	background: #343434;
+}
+
 .xtra-dark {
 	background-color: #000000;
 	color: white;
+}
+
+.logo-body {
+/*	height: 50vh;*/
+}
+
+.logo-container {
+	-webkit-transform: skew(0deg, 1deg);
+	    -ms-transform: skew(0deg, 1deg);
+	        transform: skew(0deg, 1deg);
+	z-index: -1;
+	padding: 1rem;
+}
+
+.logo-container > div{
+	-webkit-transform: skew(0deg, -1deg);
+	    -ms-transform: skew(0deg, -1deg);
+	        transform: skew(0deg, -1deg);
 }
 
 .dark {
@@ -387,7 +411,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 .light {
 	background-color: #D9D9D9;
 }
-.light * {
+.dark-font * {
     color: #222222;
 }
 .dark-blue {
@@ -399,8 +423,9 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 }
 
 .title-line {
+	padding-bottom: 2vw;
 	border: none;
-	border-bottom: solid white 5px;
+	border-bottom: solid white 0.7vw;
 }
 
 .full-width {

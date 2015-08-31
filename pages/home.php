@@ -3,7 +3,7 @@
 -->
 <div class="highlight logo-body">
 <div class="logo-container full-width dark">
-<div class="row title-">
+<div class="row">
     <div class="text-center large-8 columns large-offset-2 small-8 small-offset-2 title-line">
         <a href="index.html"><img class="logo-max-height" src="" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
             <noscript><img src="img/CIS-v2.png">

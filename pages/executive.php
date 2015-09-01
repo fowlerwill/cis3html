@@ -33,6 +33,22 @@
 	<li>Always keep a very good record of cash inflows and outflows. It's very important because in the Annual Report, you'll need to balance the clubs' books!</li>
 	<li>Always fill out event forms.</li>
 	<li>You're going to need to get signatures... A lot!</li>
-</ul>	
+</ul>
+
+<h2>Past Presidents</h2>
+
+<h3>Heidi Ghelfi (Initial Founder)</h3>
+<hr />
+
+<h3>Aashish Kumar</h3>
+<hr />
+
+<h3>Marcel Gruber (2013 &amp; 2014)</h3>
+After graduating, Marcel went on to found Luxica Consulting Corp. and to be the Chief Architect of IT for White Knight Safety Solutions.
+<hr />
+
+<h3>Will Fowler (Current President)</h3>
+<hr />
+
     </div>
 </div>

@@ -182,7 +182,7 @@
 				</div>
 			</li>
 		</ul>
-		<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
+		<ul class="small-block-grid-1 large-block-grid-4" data-equalizer>
 			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
 					<img src="img/Executive-Profiles/Ryan-McLaughlin/headshot.jpg" width=100px class="executiveImage">
@@ -192,6 +192,31 @@
 				</div>
 				<div class="panel text-center padding-top-none margin-top-none border-top-none">
 					<p class="padding-bottom-none margin-bottom-none">Connect with Ryan</p>
+					<div class="row floor">
+						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-facebook-square font-black"></i>
+						</a>
+						<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+						</a>
+						<a href="https://github.com/cfras104" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-github-square font-black"></i>
+						</a>
+						<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-envelope font-black"></i>
+						</a>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
+					<img src="img/Executive-Profiles/Brandon-Devaleriola/headshot.jpg" width=100px class="executiveImage">
+					<h5 class="underline-black">Brandon Devaleriola</h5>
+					<p class="font-italic">VP Finance</p>
+					<p class="text-left">Where should I go? In a four column or in a new row?</p>
+				</div>
+				<div class="panel text-center padding-top-none margin-top-none border-top-none">
+					<p class="padding-bottom-none margin-bottom-none">Connect with Brandon</p>
 					<div class="row floor">
 						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
 							<i class="icon-font-small fa fa-facebook-square font-black"></i>

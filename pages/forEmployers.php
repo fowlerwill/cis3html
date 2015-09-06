@@ -29,6 +29,6 @@
 <!-- TITLE -->
 <div class="row">
     <div class="column small-offset-3 text-center small-6 padding-top-double">
-        <h3 class="underline-white">Progressing Eucation and Your Company</h3>
+        <h3 class="underline-white">Progressing Education and Your Company</h3>
     </div>
 </div>

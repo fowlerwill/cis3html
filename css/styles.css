@@ -1,22 +1,25 @@
 /* Custom CSS RULES */
 
+
 /* = FONTS
 -----------------------------------------------------------------------------*/
 
 @font-face {
-    font-family: Centuma-Thin;
-    src: url("../fonts/Centuma-Regular.otf");
+	font-family: Centuma-Thin;
+	src: url("../fonts/Centuma-Regular.otf");
 }
 
 @font-face {
-    font-family: Centuma-Bold;
-    src: url("../fonts/Centuma-Bold.otf");
+	font-family: Centuma-Bold;
+	src: url("../fonts/Centuma-Bold.otf");
 }
+
 html * {
-    font-family: centuma-thin;
+	font-family: centuma-thin;
 }
+
 body * {
-    color: #ffffff;
+	color: #ffffff;
 	z-index: 1;
 }
 
@@ -26,113 +29,155 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: centuma-bold;
+	font-family: centuma-bold;
 }
 
 @media only screen and (max-width: 40.063em) {
-    .cis-title {
-        font-size: 1em;
-    }
+	.cis-title {
+		font-size: 1em;
+	}
 }
 
 @media only screen and (min-width: 40.063em) {
-    .cis-title {
-        font-size: 2em;
-    }
+	.cis-title {
+		font-size: 2em;
+	}
 }
 
 @media only screen and (min-width: 60.0625em) {
-    .cis-title {
-        font-size: 2.3em;
-    }
+	.cis-title {
+		font-size: 2.3em;
+	}
 }
+
 
 /* = HTML & GENERAL ELEMENTS
 -----------------------------------------------------------------------------*/
 
 .fullWidth {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: initial;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: initial;
+}
+
+.border-top-none {
+	border-top: none;
+}
+.border-bottom-none {
+	border-bottom: none;
+}
+
+.padding-none {
+	padding: 0rem;
+}
+.padding-top-none {
+	padding-top: 0rem;
+}
+.padding-bottom-none {
+	padding-bottom: 0rem;
 }
 
 .padding {
-    padding: 0.9375rem;
+	padding: 0.9375rem;
 }
+
 .padding-top {
-    padding-top: 0.9375rem;
+	padding-top: 0.9375rem;
 }
+
 .padding-bottom {
-    padding-bottom: 0.9375rem;
+	padding-bottom: 0.9375rem;
 }
+
 .padding-double {
-    padding: 1.875rem;
+	padding: 1.875rem;
 }
+
 .padding-top-double {
-    padding-top: 1.875rem;
+	padding-top: 1.875rem;
 }
+
 .padding-bottom-double {
-    padding-bottom: 1.875rem;
+	padding-bottom: 1.875rem;
 }
+
+.margin-top-none {
+	margin-top: 0rem;
+}
+.margin-bottom-none {
+	margin-bottom: 0rem;
+}
+
 .margin {
-    margin: 0.9375rem;
+	margin: 0.9375rem;
 }
+
 .margin-top {
-    margin-top: 0.9375rem;
+	margin-top: 0.9375rem;
 }
+
 .margin-bottom {
-    margin-bottom: 0.9375rem;
+	margin-bottom: 0.9375rem;
 }
+
 .margin-double {
-    margin: 1.875rem;
+	margin: 1.875rem;
 }
+
 .margin-top-double {
-    margin-top: 0rem;
+	margin-top: 0rem;
 }
+
 .margin-bottom-double {
-    margin-bottom: 1.875rem;
+	margin-bottom: 1.875rem;
 }
+
 .underline-black {
 	border-bottom: solid 1px black;
 }
+
 .underline-white {
 	border-bottom: solid white 1px;
 }
+
+
 /*Icon Font Styles in Footer*/
 
 .icon-font {
-    color: white;
-    font-size: 2em;
-    margin: 0 1vw;
-    padding: 0;
+	color: white;
+	font-size: 2em;
+	margin: 0 1vw;
+	padding: 0;
 }
 
 .icon-font-small {
-    color: white;
-    font-size: 1.3em;
-
+	color: white;
+	font-size: 1.3em;
 }
+
 
 /*Max image height preventing fullscreen images
 APPLY TO ALL IMAGES EXCEPT TITLE IMG
 */
+
 .thumbnail-height {
 	height: 10vw;
 }
 
 .image-max {
-    max-height: 30vh;
+	max-height: 30vh;
 }
 
 .logo-max-height {
-    max-height: 12rem;
+	max-height: 12rem;
 }
 
 #pageWrapper {
-    min-height: 600px;
-    min-height: 60vh;
+	min-height: 600px;
+	min-height: 60vh;
 }
+
 
 /* = Nav Bar Top
 -----------------------------------------------------------------------------*/
@@ -156,10 +201,10 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	margin-left: 5px;
 }
 
-@media only screen and (max-width: 40.063em){
+@media only screen and (max-width: 40.063em) {
 	.top-bar {
 		height: 2.5rem;
-}
+	}
 }
 
 @media only screen and (min-width: 40.063em) {
@@ -185,12 +230,31 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	}
 }
 
+
+/* = EXECUTIVE PAGE
+-----------------------------------------------------------------------------*/
+
+.executiveImage {
+	border-radius: 100%;
+}
+
+.floor {
+	display: table-cell;
+	vertical-align: bottom;
+	display: inline-block
+}
+
+.executiveCard {
+	display: table;
+}
+
+
 /* = EVENTS PAGE
 -----------------------------------------------------------------------------*/
 
 #eventCalendar {
-    min-height: 600px;
-    min-height: 60vh;
+	min-height: 600px;
+	min-height: 60vh;
 }
 
 .white-text {
@@ -387,18 +451,26 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	color: white;
 }
 
+.font-black {
+	color: #000000;
+}
+
+.font-italic {
+	font-style: italic;
+}
+
 .logo-container {
 	-webkit-transform: skew(0deg, 1deg);
-	    -ms-transform: skew(0deg, 1deg);
-	        transform: skew(0deg, 1deg);
+	-ms-transform: skew(0deg, 1deg);
+	transform: skew(0deg, 1deg);
 	z-index: -1;
 	padding: 1rem;
 }
 
-.logo-container > div{
+.logo-container > div {
 	-webkit-transform: skew(0deg, -1deg);
-	    -ms-transform: skew(0deg, -1deg);
-	        transform: skew(0deg, -1deg);
+	-ms-transform: skew(0deg, -1deg);
+	transform: skew(0deg, -1deg);
 }
 
 .dark {
@@ -411,12 +483,12 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 
 .light {
 	background-color: #D9D9D9;
-
 }
 
 .dark-font * {
-    color: #222222;
+	color: #222222;
 }
+
 .dark-blue {
 	background-color: #1D324F;
 }
@@ -428,7 +500,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 .title-line {
 	padding-bottom: 2vw;
 	border: none;
-	border-bottom: solid white 0.7vw;
+	border-bottom: solid white 3px;
 }
 
 .full-width {

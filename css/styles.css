@@ -60,6 +60,9 @@ h6 {
 	margin-right: auto;
 	max-width: initial;
 }
+.border-black {
+	border: solid black 1px;
+}
 
 .border-top-none {
 	border-top: none;
@@ -182,23 +185,53 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 /* = Nav Bar Top
 -----------------------------------------------------------------------------*/
 
-.top-bar-section ul li:hover:not(.has-form) > a {
-	background-color: #555555;
-	color: #FFFFFF;
-	background: #222222;
+.top-bar {
+	background: -webkit-linear-gradient(white, #D9D9D9) !important; /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(white, #D9D9D9) !important; /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(white, #D9D9D9) !important; /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#D9D9D9, #FFFFFF) !important; /* Standard syntax */
+}
+.top-bar *{
+	color: black !important;
+}
+.top-bar .right *{
+	font-family: Centuma-Bold;
+}
+.top-bar-section .right li a{
+	background-color: #FFF !important;
 }
 
-.top-bar-section ul li.active > a {
-	background: #A9C6DF !important;
+
+.top-bar-section .social-icons li a{
+	background: -webkit-linear-gradient(#d9d9d9, #EAEAEA) !important; /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#d9d9d9, #EAEAEA) !important; /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#d9d9d9, #EAEAEA) !important; /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#d9d9d9, #EAEAEA) !important; /* Standard syntax */
 }
 
-.top-bar-section ul li.active > a:hover {
-	background: #6AA4D8 !important;
+.top-bar-section .right li:hover:not(.has-form) > a {
+	background-color: #A9C6DF  !important;
+}
+
+.top-bar-section .social-icons li:hover:not(.has-form) > a {
+	background: white  !important;
+}
+
+.top-bar-section .right li.active > a {
+	background: #395B7C !important;
+	color: white !important;
+}
+.top-bar-section .right li.active:hover > a{
+	background: #384C61 !important;
 }
 
 .logo {
 	width: 40px;
 	margin-left: 5px;
+}
+.logo:hover {
+	background: rgba(0,0,0,0.3) !important;
+	box-shadow: 0px 0px 5px black;
 }
 
 @media only screen and (max-width: 40.063em) {
@@ -256,10 +289,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 #eventCalendar {
 	min-height: 600px;
 	min-height: 60vh;
-}
-
-.white-text {
-	color: white;
 }
 
 .event {
@@ -472,10 +501,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	background-color: #D9D9D9;
 }
 
-.dark-font * {
-	color: #222222;
-}
-
 .dark-blue {
 	background-color: #1D324F;
 }
@@ -515,6 +540,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 .top-bar-section ul li {
 	display: table-cell;
 }
+
 
 @media only screen and (max-width: 40.063em) {
 	div.icon-bar.label-right > * {

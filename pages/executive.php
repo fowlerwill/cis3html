@@ -268,7 +268,7 @@
 
 
 
-	<div class="row">
+	<div class="row panel">
 		
 			<h3>Tips for Executive Success</h3>
 			<h4>Funding</h4>

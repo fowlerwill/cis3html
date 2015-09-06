@@ -236,6 +236,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 
 .executiveImage {
 	border-radius: 100%;
+	border: solid #999999 1px;
 }
 
 .floor {

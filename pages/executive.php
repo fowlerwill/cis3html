@@ -31,10 +31,112 @@
 		<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
 			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
-					<img src="img/Executive-Profiles/Coulton-Fraser/Headshot.jpg" width=100px class="executiveImage">
+					<img src="img/Executive-Profiles/Will-Fowler/headshot.jpeg" width=100px class="executiveImage">
+					<h5 class="underline-black">Will Fowler</h5>
+					<p class="font-italic">President</p>
+					<p class="text-left">Coulton Fraser puts the 'I' in 'Our Team'.</p>
+				</div>
+				<div class="panel text-center padding-top-none margin-top-none border-top-none">
+					<p class="padding-bottom-none margin-bottom-none">Connect with Will</p>
+					<div class="row floor">
+						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-facebook-square font-black"></i>
+						</a>
+						<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+						</a>
+						<a href="https://github.com/cfras104" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-github-square font-black"></i>
+						</a>
+						<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-envelope font-black"></i>
+						</a>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
+					<img src="img/Executive-Profiles/Priyash-Bista/headshot.jpg" width=100px class="executiveImage">
+					<h5 class="underline-black">Priyash Bista</h5>
+					<p class="font-italic">Senior Vice President</p>
+					<p class="text-left">Coulton Fraser is a generally outstanding guy.</p>
+				</div>
+				<div class="panel text-center padding-top-none margin-top-none border-top-none">
+					<p class="padding-bottom-none margin-bottom-none">Connect with Priyash</p>
+					<div class="row floor">
+						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-facebook-square font-black"></i>
+						</a>
+						<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+						</a>
+						<a href="https://github.com/cfras104" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-github-square font-black"></i>
+						</a>
+						<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-envelope font-black"></i>
+						</a>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
+					<img src="img/Executive-Profiles/Amanda-Haynes/headshot.jpg" width=100px class="executiveImage">
+					<h5 class="underline-black">Amanda Haynes</h5>
+					<p class="font-italic">VP Internal</p>
+					<p class="text-left">Coulton Fraser is great at sports.</p>
+				</div>
+				<div class="panel text-center padding-top-none margin-top-none border-top-none">
+					<p class="padding-bottom-none margin-bottom-none">Connect with Amanda</p>
+					<div class="row floor">
+						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-facebook-square font-black"></i>
+						</a>
+						<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+						</a>
+						<a href="https://github.com/cfras104" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-github-square font-black"></i>
+						</a>
+						<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-envelope font-black"></i>
+						</a>
+					</div>
+				</div>
+			</li>
+		</ul>
+		<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
+			<li>
+				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
+					<img src="img/Executive-Profiles/Nicole-Waldern/headshot.jpg" width=100px class="executiveImage">
+					<h5 class="underline-black">Nicole Waldern</h5>
+					<p class="font-italic">VP External</p>
+					<p class="text-left">Coulton Fraser is very photogenic.</p>
+				</div>
+				<div class="panel text-center padding-top-none margin-top-none border-top-none">
+					<p class="padding-bottom-none margin-bottom-none">Connect with Nicole</p>
+					<div class="row floor">
+						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-facebook-square font-black"></i>
+						</a>
+						<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+						</a>
+						<a href="https://github.com/cfras104" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-github-square font-black"></i>
+						</a>
+						<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-envelope font-black"></i>
+						</a>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
+					<img src="img/Executive-Profiles/Coulton-Fraser/headshot.jpg" width=100px class="executiveImage">
 					<h5 class="underline-black">Coulton Fraser</h5>
 					<p class="font-italic">VP Marketing</p>
-					<p class="text-left">Coulton Fraser has not yet completed his profile section. But this is where we can all write about ourselves, and even connect to our linkedIn profiles. I made a form for all executive to fill out so buidling all profile cards will be easy. Please see cis3html/img/.</p>
+					<p class="text-left">I beleive the other executive's biographies are fairly accurate.</p>
 				</div>
 				<div class="panel text-center padding-top-none margin-top-none border-top-none">
 					<p class="padding-bottom-none margin-bottom-none">Connect with Coulton</p>
@@ -56,13 +158,40 @@
 			</li>
 			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
-					<img src="img/Executive-Profiles/Coulton-Fraser/Headshot.jpg" width=100px class="executiveImage">
-					<h5 class="underline-black">Coulton Fraser</h5>
-					<p class="font-italic">VP Marketing</p>
-					<p class="text-left">Coulton Fraser has not yet completed his profile section. But this is where we can all write about ourselves, and even connect to our linkedIn profiles.</p>
+					<img src="img/Executive-Profiles/Brandon-Cochrane/Headshot.jpg" width=100px class="executiveImage">
+					<h5 class="underline-black">Brandon Cochrane</h5>
+					<p class="font-italic">VP Communications</p>
+					<p class="text-left">Coulton Fraser is pretty good at letting me win in videogames. What a nice guy.</p>
 				</div>
 				<div class="panel text-center padding-top-none margin-top-none border-top-none">
-					<p class="padding-bottom-none margin-bottom-none">Connect with Coulton</p>
+					<p class="padding-bottom-none margin-bottom-none">Connect with Brandon</p>
+					<div class="row floor">
+						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-facebook-square font-black"></i>
+						</a>
+						<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+						</a>
+						<a href="https://github.com/cfras104" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-github-square font-black"></i>
+						</a>
+						<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-envelope font-black"></i>
+						</a>
+					</div>
+				</div>
+			</li>
+		</ul>
+		<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
+			<li>
+				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
+					<img src="img/Executive-Profiles/Ryan-McLaughlin/headshot.jpg" width=100px class="executiveImage">
+					<h5 class="underline-black">Ryan McLaughlin</h5>
+					<p class="font-italic">VP Student Relation</p>
+					<p class="text-left">I am Coulton Fraser's father.</p>
+				</div>
+				<div class="panel text-center padding-top-none margin-top-none border-top-none">
+					<p class="padding-bottom-none margin-bottom-none">Connect with Ryan</p>
 					<div class="row floor">
 						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
 							<i class="icon-font-small fa fa-facebook-square font-black"></i>
@@ -81,13 +210,38 @@
 			</li>
 			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
-					<img src="img/Executive-Profiles/Coulton-Fraser/Headshot.jpg" width=100px class="executiveImage">
-					<h5 class="underline-black">Coulton Fraser</h5>
-					<p class="font-italic">VP Marketing</p>
-					<p class="text-left">Coulton Fraser has not yet completed his profile section. But this is where we can all write about ourselves, and even connect to our linkedIn profiles. These profiles are awesome!</p>
+					<img src="img/Executive-Profiles/Andrew-Si/headshot.jpg" width=100px class="executiveImage">
+					<h5 class="underline-black">Andrew Si</h5>
+					<p class="font-italic">3rd Year Representative</p>
+					<p class="text-left">Coulton Fraser is simply the best.</p>
 				</div>
 				<div class="panel text-center padding-top-none margin-top-none border-top-none">
-					<p class="padding-bottom-none margin-bottom-none">Connect with Coulton</p>
+					<p class="padding-bottom-none margin-bottom-none">Connect with Andrew</p>
+					<div class="row floor">
+						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-facebook-square font-black"></i>
+						</a>
+						<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+						</a>
+						<a href="https://github.com/cfras104" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-github-square font-black"></i>
+						</a>
+						<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+							<i class="icon-font-small fa fa-envelope font-black"></i>
+						</a>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
+					<img src="img/Executive-Profiles/Raj-Sidhu/headshot.jpg" width=100px class="executiveImage">
+					<h5 class="underline-black">Raj Sidhu</h5>
+					<p class="font-italic">3rd Year Representative</p>
+					<p class="text-left">Coulton Fraser is just an amazing person.</p>
+				</div>
+				<div class="panel text-center padding-top-none margin-top-none border-top-none">
+					<p class="padding-bottom-none margin-bottom-none">Connect with Raj</p>
 					<div class="row floor">
 						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
 							<i class="icon-font-small fa fa-facebook-square font-black"></i>
@@ -106,6 +260,7 @@
 			</li>
 		</ul>
 		
+		
 	</div>
 
 
@@ -114,21 +269,9 @@
 
 
 	<div class="row">
-		<div class="column small-12 padding-top-double">
-			<h1>CIS3 Executive Team:</h1>
-			</ul>
-			<li>President: Will Fowler</li>
-			<li>Senior Vice President: Priyash Bista</li>
-			<li>Vice President - Communications: Brandon Cochrane</li>
-			<li>Vice President - External: Nicole Waldern</li>
-			<li>Vice President - Internal: Amanda Haynes</li>
-			<li>Vice President - Marketing: Coulton Fraser</li>
-			<li>Vice President - Student Relation: Ryan M<sup>c</sup>Laughlin</li>
-			<li>3<sup>rd</sup> Year Representative: Andrew Si</li>
-			<li>3<sup>rd</sup> Year Representative: Rajinder (Raj) Sidhu</li>
-			</ul>
+		
 			<h3>Tips for Executive Success</h3>
-			<h4>Funding</span></h4>
+			<h4>Funding</h4>
 			<ul>
 				<li>Apply for SAMRU E-Awards. You can win $500 for the club every year! Always quantify your efforts and accomplishments for the year and keep them in a word document that can easily be converted into an application letter for the scholarship.</li>
 				<li>Speak to past executives to find out who can provide funding for events.</li>

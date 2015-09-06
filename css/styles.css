@@ -460,20 +460,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	font-style: italic;
 }
 
-.logo-container {
-	-webkit-transform: skew(0deg, 1deg);
-	-ms-transform: skew(0deg, 1deg);
-	transform: skew(0deg, 1deg);
-	z-index: -1;
-	padding: 1rem;
-}
-
-.logo-container > div {
-	-webkit-transform: skew(0deg, -1deg);
-	-ms-transform: skew(0deg, -1deg);
-	transform: skew(0deg, -1deg);
-}
-
 .dark {
 	background-color: #343434;
 }

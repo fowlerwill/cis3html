@@ -16,9 +16,9 @@
         <ul class="right text-center">
             <li>"><a href="home" class="<?= ($_GET['p'] == 'home') ? 'active' : ''; ?>">Home</a></li>
 
-            <li><a href="forEmployers" class="<?= ($_GET['p'] == 'forEmployers') ? 'active' : ''; ?>">For Employers</a></li>
+            <li><a href="forEmployers" class="<?= ($_GET['p'] == 'forEmployers') ? 'active' : ''; ?>">Employers</a></li>
             <li><a href="events" class="<?= ($_GET['p'] == 'events') ? 'active' : ''; ?>">Events</a></li>
-            <li><a href="executive" class="<?= ($_GET['p'] == 'home') ? 'active' : ''; ?>">Executive</a></li>
+            <li><a href="executive" class="<?= ($_GET['p'] == 'executive') ? 'active' : ''; ?>">Executive</a></li>
             <li class="has-dropdown">
                 <a href="#">About</a>
                 <ul class="dropdown">

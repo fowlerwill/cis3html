@@ -14,7 +14,7 @@
     <section class="top-bar-section">
         <!-- Right Nav Section -->
         <ul class="right text-center">
-            <li>"><a href="home" class="<?= ($_GET['p'] == 'home') ? 'active' : ''; ?>">Home</a></li>
+            <li><a href="home" class="<?= ($_GET['p'] == 'home') ? 'active' : ''; ?>">Home</a></li>
 
             <li><a href="forEmployers" class="<?= ($_GET['p'] == 'forEmployers') ? 'active' : ''; ?>">Employers</a></li>
             <li><a href="events" class="<?= ($_GET['p'] == 'events') ? 'active' : ''; ?>">Events</a></li>

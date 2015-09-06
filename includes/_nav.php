@@ -14,11 +14,11 @@
     <section class="top-bar-section">
         <!-- Right Nav Section -->
         <ul class="right text-center">
-            <li class="active"><a href="home">Home</a></li>
+            <li class="<?php if($_SERVER['QUERY_STRING'] == 'p=home') echo"active"; ?>"><a href="home">Home</a></li>
 
-            <li class=""><a href="forEmployers">For Employers</a></li>
-            <li class=""><a href="events">Events</a></li>
-            <li class=""><a href="executive">Executive</a></li>
+            <li class="<?php if($_SERVER['QUERY_STRING'] == 'p=forEmployers') echo"active"; ?>"><a href="forEmployers">For Employers</a></li>
+            <li class="<?php if($_SERVER['QUERY_STRING'] == 'p=events') echo"active"; ?>"><a href="events">Events</a></li>
+            <li class="<?php if($_SERVER['QUERY_STRING'] == 'p=executive') echo"active"; ?>"><a href="executive">Executive</a></li>
             <li class="has-dropdown">
                 <a href="#">About</a>
                 <ul class="dropdown">

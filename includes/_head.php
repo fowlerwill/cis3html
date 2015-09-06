@@ -11,7 +11,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>CIS3 Home</title>
+    <title>CIS3</title>
     <meta name="description" content="CIS3 is the Computer Information Systems Student Society of Mount Royal University a club for students in the BCIS program.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

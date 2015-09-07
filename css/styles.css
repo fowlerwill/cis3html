@@ -71,6 +71,11 @@ h6 {
 	border-bottom: none;
 }
 
+.margin-side-collapse {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+
 .padding-none {
 	padding: 0rem;
 }
@@ -184,7 +189,13 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 
 /* = Nav Bar Top
 -----------------------------------------------------------------------------*/
+.top-bar.expanded .title-area{
+	background: #E7E7E7;
+}
 
+.top-bar .toggle-topbar.menu-icon a span::after {
+	box-shadow: 0 0 0 1px #000, 0 7px 0 1px #000, 0 14px 0 1px #000;
+}
 .top-bar {
 	background: -webkit-linear-gradient(white, #D9D9D9) !important; /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(white, #D9D9D9) !important; /* For Opera 11.1 to 12.0 */
@@ -201,7 +212,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	background-color: #FFF !important;
 }
 
-
 .top-bar-section .social-icons li a{
 	background: -webkit-linear-gradient(#d9d9d9, #EAEAEA) !important; /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(#d9d9d9, #EAEAEA) !important; /* For Opera 11.1 to 12.0 */
@@ -214,7 +224,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 }
 
 .top-bar-section .social-icons li:hover:not(.has-form) > a {
-	background: white  !important;
+	background: #A9C6DF !important;
 }
 
 .top-bar-section .right li.active > a {
@@ -263,6 +273,9 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	}
 }
 
+.social-icon-small:hover {
+	background: #A9C6DF;
+}
 
 /* = EXECUTIVE PAGE
 -----------------------------------------------------------------------------*/
@@ -280,76 +293,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 
 .executiveCard {
 	display: table;
-}
-
-
-/* = EVENTS PAGE
------------------------------------------------------------------------------*/
-
-#eventCalendar {
-	min-height: 600px;
-	min-height: 60vh;
-}
-
-.event {
-	padding: 1rem 1rem 1rem 0;
-	display: table;
-}
-
-.event-date {
-	width: 6rem;
-	margin: 0 auto 1rem;
-	display: table-cell;
-	width: auto;
-}
-
-.event-date .event-month {
-	margin: 0;
-	background: #343434;
-	padding: 0.5rem 2rem;
-	text-align: center;
-	color: white;
-}
-
-.event-date .event-day {
-	margin: 0;
-	border: 1px solid #000;
-	padding: 0 2rem;
-	text-align: center;
-	font-size: 2rem;
-	background: #FFF;
-}
-
-.event-date .important {
-	background-color: #EB2F15;
-}
-
-.event-desc {
-	padding: 0 0 0 1rem;
-	text-align: left;
-	display: table-cell;
-	vertical-align: top;
-}
-
-.event-desc .event-desc-header {
-	margin: 0 0 0.5rem 0;
-	padding: 0;
-}
-
-.event-desc .event-desc-detail {
-	margin: 0 0 0.25rem;
-	padding: 0;
-}
-
-.event-desc .event-desc-time {
-	font-weight: bold;
-}
-
-.event-desc .rsvp.button {
-	padding-top: 0.5rem;
-	padding-bottom: 0.5rem;
-	margin: 0;
-	background-color: #395B7C;
 }
 
 
@@ -482,7 +425,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 }
 
 .font-black {
-	color: #000000;
+	color: #000000 !important;
 }
 
 .font-italic {
@@ -509,6 +452,14 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	border: none;
 }
 
+.border-black-left {
+	border-left: solid black 1px;
+}
+
+.border-black-right {
+	border-right: solid black 1px;
+}
+
 .title-line {
 	padding-bottom: 2vw;
 	border: none;
@@ -532,14 +483,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	padding-bottom: 5vh;
 }
 
-.top-bar-section ul {
-	display: table;
-	margin: 0 auto;
-}
-
-.top-bar-section ul li {
-	display: table-cell;
-}
 
 
 @media only screen and (max-width: 40.063em) {

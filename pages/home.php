@@ -5,7 +5,7 @@
 <div class="logo-container full-width dark">
     <div class="row">
         <div class="text-center large-8 columns large-offset-2 small-8 small-offset-2 title-line">
-            <a href="index.html"><img class="logo-max-height" src="" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
+            <a href="index.html"><img class="logo-max-height" src="home" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
                 <noscript><img src="img/CIS-v2.png">
                 </noscript>
             </a>
@@ -23,7 +23,7 @@
 <!--
     FULL WIDTH IMAGE
 -->
-<div id="introImage" class="row fullWidth margin-top-double"></div>
+<div id="introImage" class="hide-for-small row fullWidth margin-top-double"></div>
 
 <!--
     CALL TO ACTION BUTTONS
@@ -73,7 +73,7 @@
 
             </div>
             <div class="large-4 columns">
-                <img src="img/MacBookBench.jpg" class="image-max">
+                <img src="img/MacBookBench.jpg" class="image-max hide-for-small">
             </div>
         </div>
     </div>

@@ -8,7 +8,7 @@
 	<div class="logo-body highlight ">
 		<div class="row full-width dark">
 			<div class="small-offset-3 small-6 large-offset-3 large-6 text-center title-line">
-				<img class="thumbnail-height" src="" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
+				<img class="thumbnail-height" src="home" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
 				<noscript><img src="img/CIS-v2.png">
 				</noscript>
 

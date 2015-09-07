@@ -14,7 +14,7 @@
 
     <div class="row ">
         <div class="columns text-center small-8 small-offset-2">
-            <h1 class="cis-title white-text">Computer Information Systems Student Society</h1>
+            <h1 class="link-animation cis-title white-text">Computer Information Systems Student Society</h1>
         </div>
     </div>
 </div>

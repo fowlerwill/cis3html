@@ -203,13 +203,17 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
   background: linear-gradient(#D9D9D9, #FFFFFF) !important; /* Standard syntax */
 }
 .top-bar *{
-	color: black !important;
+	color: black;
 }
 .top-bar .right *{
 	font-family: Centuma-Bold;
 }
 .top-bar-section .right li a{
-	background-color: #FFF !important;
+	background-color: #FFF;
+	-webkit-transition: background-color 1s;
+    -moz-transition: background-color 1s;
+    -o-transition: background-color 1s;
+    transition: background-color 1s;
 }
 
 .top-bar-section .social-icons li a{
@@ -219,8 +223,15 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
   background: linear-gradient(#d9d9d9, #EAEAEA) !important; /* Standard syntax */
 }
 
+.nav-transition {
+	-webkit-transition: background-color 1s;
+    -moz-transition: background-color 1s;
+    -o-transition: background-color 1s;
+    transition: background-color 1s;	
+}
+
 .top-bar-section .right li:hover:not(.has-form) > a {
-	background-color: #A9C6DF  !important;
+	background-color: #A9C6DF;
 }
 
 .top-bar-section .social-icons li:hover:not(.has-form) > a {
@@ -228,11 +239,11 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 }
 
 .top-bar-section .right li.active > a {
-	background: #395B7C !important;
-	color: white !important;
+	background: #395B7C;
+	color: white;
 }
 .top-bar-section .right li.active:hover > a{
-	background: #384C61 !important;
+	background: #384C61;
 }
 
 .logo {
@@ -240,8 +251,13 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	margin-left: 5px;
 }
 .logo:hover {
-	background: rgba(0,0,0,0.3) !important;
+	background: rgba(0,0,0,0.3);
 	box-shadow: 0px 0px 5px black;
+	-webkit-transition: box-shadow 0.5s;
+    -moz-transition: box-shadow 0.5s;
+    -o-transition: box-shadow 0.5s;
+    transition: box-shadow 0.5s;
+	
 }
 
 @media only screen and (max-width: 40.063em) {

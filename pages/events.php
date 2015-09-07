@@ -5,19 +5,21 @@
  * Date: 28/08/15
  */
 ?>
-	<div class="logo-body highlight ">
-		<div class="row full-width dark">
-			<div class="small-offset-3 small-6 large-offset-3 large-6 text-center title-line">
-				<img class="thumbnail-height" src="home" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
-				<noscript><img src="img/CIS-v2.png">
-				</noscript>
-
+<!-- LOGO -->
+	<div class="highlight logo-body">
+		<div class="logo-container full-width dark">
+			<div class="row">
+				<div class="text-center large-8 columns large-offset-2 small-8 small-offset-2 title-line">
+					<a href="index.html"><img class="logo-max-height" src="home" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
+						<noscript><img src="img/CIS-v2.png">
+						</noscript>
+					</a>
+				</div>
 			</div>
 
-			<div class="row">
-
-				<div class="text-center">
-					<h1>Events</h1>
+			<div class="row ">
+				<div class="columns text-center small-8 small-offset-2">
+					<h1 class="white-text">Events</h1>
 				</div>
 			</div>
 		</div>

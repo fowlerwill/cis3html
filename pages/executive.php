@@ -185,24 +185,27 @@
 		<ul class="small-block-grid-1 large-block-grid-4" data-equalizer>
 			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
-					<img src="img/Executive-Profiles/Ryan-McLaughlin/headshot.jpg" width=100px class="executiveImage">
+					<img src="img/Executive-Profiles/Ryan-McLaughlin/RM_Temp_Headshot.jpg" width=100px class="executiveImage">
 					<h5 class="underline-black">Ryan McLaughlin</h5>
-					<p class="font-italic">VP Student Relation</p>
-					<p class="text-left">I am Coulton Fraser's father.</p>
+					<p class="font-italic">VP Student Relations</p>
+					<p class="text-left">
+						What do I do? Like all the executives, I'm there to help my fellow students get engaged with the various events put on by our student's society.
+						I'm approachable, inclusive, and enthusiastic (though not very modest) -- so don't be afraid to come up and chat about your classes, our upcoming events, or more preferably - what you've been watching (I'm an avid cinemaphile). 
+					</p>
 				</div>
 				<div class="panel text-center padding-top-none margin-top-none border-top-none">
 					<p class="padding-bottom-none margin-bottom-none">Connect with Ryan</p>
 					<div class="row floor">
-						<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
+						<a href="https://www.facebook.com/ryan.mclaughlin.5245" target="_blank" class="collapse">
 							<i class="icon-font-small fa fa-facebook-square font-black"></i>
 						</a>
-						<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
+						<a href="https://ca.linkedin.com/pub/ryan-mclaughlin/97/b24/2a9" target="_blank" class="collapse">
 							<i class="icon-font-small fa fa-linkedin-square font-black"></i>
 						</a>
-						<a href="https://github.com/cfras104" target="_blank" class="collapse">
+						<a href="https://github.com/RMcLaughlin12" target="_blank" class="collapse">
 							<i class="icon-font-small fa fa-github-square font-black"></i>
 						</a>
-						<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+						<a href="mailto:rmcla801@mtroyal.ca" target="_blank" class="collapse">
 							<i class="icon-font-small fa fa-envelope font-black"></i>
 						</a>
 					</div>

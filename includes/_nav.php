@@ -27,32 +27,32 @@
                
         </ul>
         <ul class="social-icons text-center hide-for-small">
-			<li class="divider hide-for-large  hide-for-medium"></li>
+			<li class="divider hide-for-large-up  hide-for-medium"></li>
             <li>
                 <a href="https://www.facebook.com/groups/cis3org/" class="nav-transition">
                     <i class="icon-font-small fa fa-facebook-square font-black"></i>
                 </a>
             </li>
-			<li class="divider hide-for-large  hide-for-medium"></li>
+			<li class="divider hide-for-large-up  hide-for-medium"></li>
             <li>
                 <a href="https://instagram.com/cis3_mru/" class="nav-transition">
                     <i class="icon-font-small fa fa-instagram font-black"></i>
                 </a>
             </li>
-			<li class="divider hide-for-large  hide-for-medium"></li>
+			<li class="divider hide-for-large-up  hide-for-medium"></li>
             <li>
                 <a href="https://twitter.com/cis3_mru" class="nav-transition">
                     <i class="icon-font-small fa fa-twitter-square font-black"></i>
                 </a>
             </li>
-			<li class="divider hide-for-large  hide-for-medium"></li>
+			<li class="divider hide-for-medium-up"></li>
             <li>
                 <a href="mailto:info@cis3.org" class="nav-transition">
                     <i class="icon-font-small fa fa-envelope font-black"></i>
                 </a>
             </li>
         </ul>
-		<div class="hide-for-medium hide-for-large panel text-center padding-top-none padding-bottom-none margin-top-none margin-bottom-none border-top-none">
+		<div class="hide-for-medium-up panel text-center padding-top-none padding-bottom-none margin-top-none margin-bottom-none border-top-none">
 					<div class="row">
 						<a href="https://www.facebook.com/groups/cis3org/" target="_blank" class="nav-transition collapse padding social-icon-small border-black-right border-black-left">
 							<i class="icon-font-small fa fa-facebook-square font-black"></i>

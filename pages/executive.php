@@ -29,7 +29,7 @@
 	<!-- Executive Profiles -->
 	<div class="padding-double row" data-equalizer>
 		<ul class="small-block-grid-1 large-block-grid-1">
-		<li>
+			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
 					<img src="img/Executive-Profiles/Will-Fowler/headshot.jpeg" width=100px class="executiveImage">
 					<h5 class="underline-black">Will Fowler</h5>
@@ -56,7 +56,7 @@
 			</li>
 		</ul>
 		<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
-			
+
 			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
 					<img src="img/Executive-Profiles/Priyash-Bista/headshot.jpg" width=100px class="executiveImage">
@@ -164,7 +164,7 @@
 					<img src="img/Executive-Profiles/Coulton-Fraser/headshot.jpg" width=100px class="executiveImage">
 					<h5 class="underline-black">Coulton Fraser</h5>
 					<p class="font-italic">VP Marketing</p>
-					<p class="text-left">I beleive the other executive's biographies are fairly accurate.</p>
+					<p class="text-left">If I could have any super power it would be teleportation. Traffic, time, and plane ticket prices are my worst enemies. If I'm not burried in assignments I am burried in snow while shredding the mountains. I can also speak two languages, English and Adobe.</p>
 				</div>
 				<div class="panel text-center padding-top-none margin-top-none border-top-none">
 					<p class="padding-bottom-none margin-bottom-none">Connect with Coulton</p>
@@ -217,8 +217,7 @@
 					<h5 class="underline-black">Ryan McLaughlin</h5>
 					<p class="font-italic">VP Student Relations</p>
 					<p class="text-left">
-						What do I do? Like all the executives, I'm there to help my fellow students get engaged with the various events put on by our student's society.
-						I'm approachable, inclusive, and enthusiastic (though not very modest) -- so don't be afraid to come up and chat about your classes, our upcoming events, or more preferably - what you've been watching (I'm an avid cinemaphile). 
+						What do I do? Like all the executives, I'm there to help my fellow students get engaged with the various events put on by our student's society. I'm approachable, inclusive, and enthusiastic (though not very modest) -- so don't be afraid to come up and chat about your classes, our upcoming events, or more preferably - what you've been watching (I'm an avid cinemaphile).
 					</p>
 				</div>
 				<div class="panel text-center padding-top-none margin-top-none border-top-none">
@@ -239,7 +238,7 @@
 					</div>
 				</div>
 			</li>
-			
+
 			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
 					<img src="img/Executive-Profiles/Andrew-Si/headshot.jpg" width=100px class="executiveImage">
@@ -290,46 +289,26 @@
 					</div>
 				</div>
 			</li>
-		
-		
-		
+		</ul>
 	</div>
 
-
-
-
-
-
 	<div class="row panel">
-		
-			<h3>Tips for Executive Success</h3>
-			<h4>Funding</h4>
-			<ul>
-				<li>Apply for SAMRU E-Awards. You can win $500 for the club every year! Always quantify your efforts and accomplishments for the year and keep them in a word document that can easily be converted into an application letter for the scholarship.</li>
-				<li>Speak to past executives to find out who can provide funding for events.</li>
-				<li>Piggy back on other events to reduce event costs (career services will often have events in which they have a budget for).</li>
-			</ul>
-			<h4>Documentation</h4>
-			<ul>
-				<li>Always keep the Annual Report in mind. Filling it as you go may assist in making it less of a headache for you when it becomes due in April.</li>
-				<li>Always keep a very good record of cash inflows and outflows. It's very important because in the Annual Report, you'll need to balance the clubs' books!</li>
-				<li>Always fill out event forms.</li>
-				<li>You're going to need to get signatures... A lot!</li>
-			</ul>
+		<h4 class="padding text-center">Club Funding Advice</h4>
+		<ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-equalizer>
+			<li class="" data-equalizer-watch>Apply for SAMRU E-Awards. You can win $500 for the club every year! Always quantify your efforts and accomplishments for the year and keep them in a word document that can easily be converted into an application letter for the scholarship.</li>
+			<li class="" data-equalizer-watch>Speak to past executives to find out who can provide funding for events.</li>
+			<li class="" data-equalizer-watch>Piggy back on other events to reduce event costs (career services will often have events in which they have a budget for).</li>
+		</ul>
+		<h4 class="text-center">Documentation</h4>
+		<ul class="small-block-grid-1 medium-block-grid-4 large-block-grid -4">
+			<li>Always keep the Annual Report in mind. Filling it as you go may assist in making it less of a headache for you when it becomes due in April.</li>
+			<li>Always keep a very good record of cash inflows and outflows. It's very important because in the Annual Report, you'll need to balance the clubs' books!</li>
+			<li>Always fill out event forms. You're going to need to get signatures... A lot!</li>
+			<li class="text-center"><h5>Past Presidents</h5><ul class="small-block-grid-1 large-block-grid-1 text-center">
+			<li>Heidi Ghelfi</li>
+			<li>Aashish Kumar</li>
+			<li>Marcel Gruber</li>
+		</ul></li>
+		</ul>
 
-			<h2>Past Presidents</h2>
-
-			<h3>Heidi Ghelfi (Initial Founder)</h3>
-			<hr />
-
-			<h3>Aashish Kumar</h3>
-			<hr />
-
-			<h3>Marcel Gruber (2013 &amp; 2014)</h3> After graduating, Marcel went on to found Luxica Consulting Corp. and to be the Chief Architect of IT for White Knight Safety Solutions.
-			<hr />
-
-			<h3>Will Fowler (Current President)</h3>
-			<hr />
-
-		</div>
 	</div>

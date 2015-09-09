@@ -47,7 +47,7 @@
 		<ul class="small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
 		<li class="text-center medium-grey" data-equalizer-watch><h4 class="font-white padding-double underline-white">Seasonal Events</h4><p class="font-white">Lead: VP Internal</p><img class="hide-for-medium-up" src="img/events/seasonal-events.jpg" ></li>
 			<li class="text-center dark-blue" data-equalizer-watch><h4 class="font-white padding-double underline-white">Showcase Showdown</h4><p class="font-white">Lead: Vice President in conjunction with Career Services</p><img class="hidden-for-medium-up" src="img/events/showcase-showdown.jpg"></li>
-			<li class="text-center blue" data-equalizer-watch><h4 class="font-white ">Summertime BBQ</h4><p class="font-white">Lead: President and VP Finance</p><img class="hide-for-medium-up" src="img/events/summer-bbq.jpg"></li>
+			<li class="text-center blue" data-equalizer-watch><h4 class="font-white padding-double underline-white">Summertime BBQ</h4><p class="font-white">Lead: President and VP Finance</p><img class="hide-for-medium-up" src="img/events/summer-bbq.jpg"></li>
 		</ul>
 		<ul class="hide-for-small small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
 		<li class="medium-grey" data-equalizer-watch><img src="img/events/seasonal-events.jpg" height="140px" width="249px"></li><li class="dark-blue" data-equalizer-watch><img src="img/events/showcase-showdown.jpg" height="140px" width="249px"></li><li class="blue" data-equalizer-watch><img src="img/events/summer-bbq.jpg" height="140px" width="249px"></li></ul>

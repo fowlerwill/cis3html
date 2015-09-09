@@ -65,11 +65,11 @@
 
         <div class="row">
             <div class="large-8 columns">
-                <h4 class="font-black">Next up in Events...</h4>
+                <h4 class="font-black">Upcoming Events</h4>
 
                 <p class="font-black">Our next event is games night on __ October __ in B___ at 5:00pm. You can expect lots of Super Smash Bros, Mario Kart, Cards Against Humanity, CS:GO League of Legends and many more!</p>
 
-                <p class="font-black">Any more information about the event can go here.</p>
+                <p class="font-black">Any more information about the event can go here. </p>
 
             </div>
             <div class="large-4 columns">

@@ -31,40 +31,25 @@
 		</div>		
 	</div>
 	
-	<div class="row">
-			<h3>Annual Events<</h3>
-		The following events listed below are standard activities for the club in an academic year. These events should be put on annually at the bare minimum in order to maintain club presence and the sense of community.
-		<ul>
-			<li>Networking Event
-		<ul>
-			<li>Lead: President in conjunction with VP External</li>
+	<div class="row panel">
+			<h3 class="text-center">Annual Events</h3>
+		<div class="row text-center"></div>
+		<p>The following events listed below are standard activities for the club in an academic year. These events should be put on annually at the bare minimum in order to maintain club presence and the sense of community.</p>
+		
+		<ul class="small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
+		<li class="blue text-center " data-equalizer-watch><h4 class="font-white padding-double underline-white">Networking Event</h4><p class="font-white">Lead: President in conjunction with VP External</p><img class="hide-for-medium-up" src="img/events/networking.jpg" ></li>
+			
+		<li class="text-center medium-grey" data-equalizer-watch><h4 class="font-white padding-double underline-white">Oculus Rift Fundraiser</h4><p class="font-white">Lead: VP Student Relations</p><img class="hide-for-medium-up" src="img/events/oculus.jpg" ></li>
+			<li class="text-center dark-blue" data-equalizer-watch><h4 class="font-white padding-double underline-white">Games Night</h4><p class="font-white">Lead: VP Internal</p><img class="hide-for-medium-up" src="img/events/games-night.jpg" ></li>
 		</ul>
-		</li>
-			<li>Oculus Rift Fundraiser
-		<ul>
-			<li>Lead: VP Student relations (2x/yr)</li>
+		<ul class="hide-for-small small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
+		<li class="blue" data-equalizer-watch><img src="img/events/networking.jpg" height="140px" width="249px"></li><li class="medium-grey" data-equalizer-watch><img src="img/events/oculus.jpg" height="140px" width="249px"></li><li class="dark-blue" data-equalizer-watch><img src="img/events/games-night.jpg" height="140px" width="249px"></li></ul>
+		<ul class="small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
+		<li class="text-center medium-grey" data-equalizer-watch><h4 class="font-white padding-double underline-white">Seasonal Events</h4><p class="font-white">Lead: VP Internal</p><img class="hide-for-medium-up" src="img/events/seasonal-events.jpg" ></li>
+			<li class="text-center dark-blue" data-equalizer-watch><h4 class="font-white padding-double underline-white">Showcase Showdown</h4><p class="font-white">Lead: Vice President in conjunction with Career Services</p><img class="hidden-for-medium-up" src="img/events/showcase-showdown.jpg"></li>
+			<li class="text-center blue" data-equalizer-watch><h4 class="font-white ">Summertime BBQ</h4><p class="font-white">Lead: President and VP Finance</p><img class="hide-for-medium-up" src="img/events/summer-bbq.jpg"></li>
 		</ul>
-		</li>
-			<li>Game Jam (X2/yr)
-		<ul>
-			<li>Lead: VP Internal</li>
-		</ul>
-		</li>
-			<li>Code Jam (X2/yr)
-		<ul>
-			<li>Lead: VP Internal</li>
-		</ul>
-		</li>
-			<li>Project Showcase
-		<ul>
-			<li>Lead: Vice President in conjunction with Career Services</li>
-		</ul>
-		</li>
-			<li>Panel Event or Speaker
-		<ul>
-			<li>Lead: VP Internal and VP External</li>
-		</ul>
-		</li>
-		</ul>	
+		<ul class="hide-for-small small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
+		<li class="medium-grey" data-equalizer-watch><img src="img/events/seasonal-events.jpg" height="140px" width="249px"></li><li class="dark-blue" data-equalizer-watch><img src="img/events/showcase-showdown.jpg" height="140px" width="249px"></li><li class="blue" data-equalizer-watch><img src="img/events/summer-bbq.jpg" height="140px" width="249px"></li></ul>
 	</div>
 	

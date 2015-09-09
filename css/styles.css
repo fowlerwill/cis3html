@@ -443,6 +443,9 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 .font-black {
 	color: #000000 !important;
 }
+.font-white {
+	color: #FFFFFF !important;
+}
 
 .font-italic {
 	font-style: italic;
@@ -460,8 +463,14 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	background-color: #D9D9D9;
 }
 
+.blue {
+	background-color: #395B7C;
+}
 .dark-blue {
-	background-color: #1D324F;
+	background-color: #2D3640;
+}
+.medium-grey {
+	background-color: #636363;
 }
 
 .no-border {
@@ -498,7 +507,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	padding-top: 30vh;
 	padding-bottom: 5vh;
 }
-
 
 
 @media only screen and (max-width: 40.063em) {

@@ -51,13 +51,13 @@
                 <img src="img/CodeReflectionScreen2.jpg" class="image-max">
             </div>
             <div class="large-8 columns">
-                <h4 class="font-black">This is a content section.</h4>
+                <h4 class="font-black">Announcements</h4>
                 <div class="row">
                     <div class="large-6 columns">
-                        <p class="font-black">Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+                        <p class="font-black">Its back to school time! Welcome to all the new and returning students. This year CIS3 plans to host great events that everyone will enjoy. Whether it be a games night, a networking event, or a fundraiser, we hope you all have a great time.</p>
                     </div>
                     <div class="large-6 columns">
-                        <p class="font-black">Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.</p>
+                        <p class="font-black">If you a new to the club be sure to check out the executive page to connect with the team, and see projects our executives are working on. And to those returning for another year, you can expect bigger and better events.</p>
                     </div>
                 </div>
             </div>
@@ -65,11 +65,11 @@
 
         <div class="row">
             <div class="large-8 columns">
-                <h4 class="font-black">This is a content section.</h4>
+                <h4 class="font-black">Next up in Events...</h4>
 
-                <p class="font-black">Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+                <p class="font-black">Our next event is games night on __ October __ in B___ at 5:00pm. You can expect lots of Super Smash Bros, Mario Kart, Cards Against Humanity, CS:GO League of Legends and many more!</p>
 
-                <p class="font-black">Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.</p>
+                <p class="font-black">Any more information about the event can go here.</p>
 
             </div>
             <div class="large-4 columns">

@@ -26,20 +26,20 @@
 			<li class="<?= ($_GET['p'] == 'about') ? 'active' : ''; ?>"><a href="about" >About Us</a></li>
                
         </ul>
-        <ul class="social-icons text-center hide-for-small">
-			<li class="divider hide-for-large-up  hide-for-medium"></li>
+        <ul class="social-icons text-center hide-for-small-down">
+			<li class="divider hide-for-medium-up"></li>
             <li>
                 <a href="https://www.facebook.com/groups/cis3org/" class="nav-transition">
                     <i class="icon-font-small fa fa-facebook-square font-black"></i>
                 </a>
             </li>
-			<li class="divider hide-for-large-up  hide-for-medium"></li>
+			<li class="divider hide-for-medium-up"></li>
             <li>
                 <a href="https://instagram.com/cis3_mru/" class="nav-transition">
                     <i class="icon-font-small fa fa-instagram font-black"></i>
                 </a>
             </li>
-			<li class="divider hide-for-large-up  hide-for-medium"></li>
+			<li class="divider hide-for-medium-up"></li>
             <li>
                 <a href="https://twitter.com/cis3_mru" class="nav-transition">
                     <i class="icon-font-small fa fa-twitter-square font-black"></i>

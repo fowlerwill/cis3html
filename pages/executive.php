@@ -292,23 +292,31 @@
 		</ul>
 	</div>
 
-	<div class="row panel">
+	<div class="row panel" data-equalizer>
+		<ul class="small-block-grid-1 medium-block-grid-2">
+			<li class="underline-black" data-equalizer-watch>
 		<h4 class="padding text-center">Club Funding Advice</h4>
-		<ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-equalizer>
-			<li class="" data-equalizer-watch>Apply for SAMRU E-Awards. You can win $500 for the club every year! Always quantify your efforts and accomplishments for the year and keep them in a word document that can easily be converted into an application letter for the scholarship.</li>
-			<li class="" data-equalizer-watch>Speak to past executives to find out who can provide funding for events.</li>
-			<li class="" data-equalizer-watch>Piggy back on other events to reduce event costs (career services will often have events in which they have a budget for).</li>
+		
+			<p>Apply for SAMRU E-Awards. You can win $500 for the club every year! Always quantify your efforts and accomplishments for the year and keep them in a word document that can easily be converted into an application letter for the scholarship.</p>
+			<p>Speak to past executives to find out who can provide funding for events.<p>
+			<p>Piggy back on other events to reduce event costs (career services will often have events in which they have a budget for).</p>
+		
+				</li>
+			<li class="underline-black" data-equalizer-watch>
+		<h4 class="text-center padding">Documentation</h4>
+		
+			<p>Always keep the Annual Report in mind. Filling it as you go may assist in making it less of a headache for you when it becomes due in April.</p>
+			<p>Always keep a very good record of cash inflows and outflows. It's very important because in the Annual Report, you'll need to balance the clubs' books!</p>
+			<p>Always fill out event forms. You're going to need to get signatures... A lot!</p>
 		</ul>
-		<h4 class="text-center">Documentation</h4>
-		<ul class="small-block-grid-1 medium-block-grid-4 large-block-grid -4">
-			<li>Always keep the Annual Report in mind. Filling it as you go may assist in making it less of a headache for you when it becomes due in April.</li>
-			<li>Always keep a very good record of cash inflows and outflows. It's very important because in the Annual Report, you'll need to balance the clubs' books!</li>
-			<li>Always fill out event forms. You're going to need to get signatures... A lot!</li>
-			<li class="text-center"><h5>Past Presidents</h5><ul class="small-block-grid-1 large-block-grid-1 text-center">
-			<li>Heidi Ghelfi</li>
-			<li>Aashish Kumar</li>
-			<li>Marcel Gruber</li>
-		</ul></li>
-		</ul>
+		<div class="row">
+		<h5 class="text-center padding">Past Presidents</h5>
+			<div class="text-center"><p class="small-4 columns">Heidi Ghelfi</p>
+			<p class="small-4 columns">Aashish Kumar</p>
+			<p class="small-4 columns">Marcel Gruber</p></div>
+		</div>
+		
+			
+		
 
 	</div>

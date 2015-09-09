@@ -1,53 +1,55 @@
-<div class="row">
-    <div class="column small-12 text-center padding-top-double">
-        <h1>What is CIS3?</h1>
-        <p>
-			The Computer Information Systems Student's Society is a club for
-			students at Mount Royal University in Calgary, Alberta. Our aim is to help current
-			and prospective students build a community, make connections and have fun while taking
-			Computer Information Systems or Computer Science.
-		</p>
-		<h1>Who are the CISters?</h1>
-		<p>
-			CISters involves bi-monthly meetings where the women of the BCIS and the CS transfer programs can meet and socialize.
-			For more information about CISters you can contact Shoba at sittyipe@mtroyal.ca.
-		</p>
-		
-		<h1>What is the The Hardware Support Group?</h1>
-		A volunteer and support group for all CIS3 students. If there are any inquiries on assistance with hardware repair, please feel to contact Kevin(Current HSG leader) at kdong721@mtroyal.ca
-		
-	<h5>Current members that can contacted:</h5>
-		-Kevin Dong
-		-Brandon Devaleriola
-	<h2>What the group does</h2>
-		<h3>Computer building</h3>
-			With you, we'll help you customize the computer you want. With the upcoming memory express discount, we will most likely be using the system configurator to build your computer.
-		<h3>Hardware Repair</h3>
-			There is a limit to what we can repair, but at the Hardware Support Group, we'll try our best. We can try to diagnose the situation and what needs to be done to get it running again.
-		<h3>Computer building tutorials</h3>
-			We offer two main tutorials as well as the occasional specialized courses over the course of the semester.
-		<h5>Beginners Tutorial</h5>
-			How to build a simple computer.
-		<h5>Advanced Tutorial</h5>
-			Overclocking(CPU.GPU,RAM)
-			In-depth hardware descriptions
-		<h5>Specialized Tutorial</h5>
-			Laptop Repairs by Logan Stein
-			Turning your router into a repeater by Will Fowler.
-				
-		<h1>Our Mission:</h1>
-		<p>
-			We've got a few options for mission statements:
-		</p>
-			<dl>
-				<dt>Option 1</dt>
-					<dd>CIS3 connects Bachelor of Computer Information Systems students with mentorship, support and professional development, while increasing the presence and visibility of the degree within the Calgary IT community.</dd>
-				<dt>Option 2</dt>
-					<dd>CIS3 supports BCIS students connecting them to peers, mentorship and the larger Calgary IT community.</dd>
-				<dt>Option 3</dt>
-					<dd>CIS3 - camaraderie, careers, community.</dd>
-				<dt>Option 4</dt>
-					<dd>CIS3: connecting BCIS students to the IT community within Mount Royal and Calgary through mentorship, camaraderie and professional development.</dd>
-			</dl>
+<!--  LOGO  -->
+<div class="highlight logo-body">
+	<div class="logo-container full-width dark">
+		<div class="row">
+			<div class="text-center large-8 columns large-offset-2 small-8 small-offset-2 title-line">
+				<a href="index.html"><img class="logo-max-height" src="home" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
+					<noscript><img src="img/CIS-v2.png">
+					</noscript>
+				</a>
+			</div>
+		</div>
+		<div class="row ">
+			<div class="columns text-center small-8 small-offset-2">
+				<h1 class="link-animation cis-title white-text">Information in CIS3</h1>
+			</div>
+		</div>
 	</div>
 </div>
+
+<div class="row panel padding-double">
+	<h3 class="underline-black">Our Mission</h3>
+	<p>
+		<span class="font-italic font-black">Computer Information Systems Student Society</span> (CIS3) connects Bachelor of Computer Information Systems students with mentorship, support and professional development, while increasing the presence and visibility of the degree within the Calgary IT industry.
+		
+<!--	Option 1
+CIS3 connects Bachelor of Computer Information Systems students with mentorship, support and professional development, while increasing the presence and visibility of the degree within the Calgary IT community.
+Option 2
+CIS3 supports BCIS students connecting them to peers, mentorship and the larger Calgary IT community.
+Option 3
+CIS3 - camaraderie, careers, community.
+Option 4
+CIS3: connecting BCIS students to the IT community within Mount Royal and Calgary through mentorship, camaraderie and professional development.	-->
+	</p>
+</div>
+<div class="panel row">
+	<ul class="small-block-grid-1 medium-block-grid-2" data-equalizer>
+		<li class="text-center" data-equalizer-watch>
+			<h3 class="text-center">The CISters</h3>
+			<p class="text-left">
+				The CISters (sisters) involves bi-monthly meetings where the women of the BCIS and the CS transfer programs can meet and socialize.
+				.
+			</p>
+			<button class="hightlight radius">More Information</button>
+		</li>
+		<li class="text-center" data-equalizer-watch>
+			<h3>Hardware Support Group</h3>
+			<p class="text-left"> A volunteer and support group for all CIS3 students. If there are any inquiries on assistance with hardware repair, please feel to contact Kevin(Current HSG leader) at kdong721@mtroyal.ca</p>
+			<a href="hardware"><button class="hightlight radius">More Information</button></a>
+		</li>
+	</ul>
+	
+
+</div>
+<div class="row panel"><h3 class="text-left">Our Resources</h3>
+<p>Our lab room B103 which is located just to the right when entering East Gate has plenty or resources to help students succeed, and is always a great place to meet people with similar interests. We have textbooks which students can read, a computer lab specifically for CIS/CS students, and awesome instructor assistants!</p></div>

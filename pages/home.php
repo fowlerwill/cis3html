@@ -30,7 +30,7 @@
 -->
 <div class="row padding-top-double">
     <div class="medium-4 columns text-center">
-        <a class="button expand action-button" href="forEmployers">Hire a student</a>
+        <a class="button expand action-button" href="forEmployers">For Employers</a>
     </div>
 
     <div class="medium-4 columns text-center">
@@ -38,7 +38,7 @@
     </div>
 
     <div class="medium-4 columns text-center">
-        <a class="button expand action-button" href="executive">Your club executives</a>
+        <a class="button expand action-button" href="forStudents">For Students</a>
     </div>
 </div>
 
@@ -51,9 +51,10 @@
                 <img src="img/CodeReflectionScreen2.jpg" class="image-max">
             </div>
             <div class="large-8 columns">
-                <h4 class="font-black">Announcements</h4>
+                <h4>Welcome to the club</h4>
                 <div class="row">
                     <div class="large-6 columns">
+                        <p class="font-black">CIS3 is a club for the students of Mount Royal University's Bachelor of Computer Information Systems and Computer Science Transfer programs. We aim to complete the student experience by providing what school alone cannot. Kinship, esprit de corps, the social component of success, provided by the friends that gather together to discuss relevant issues around their degrees, and their industry, as well as relaxing, playing video games, board games, networking with peers and industry</p>
                         <p class="font-black">Its back to school time! Welcome to all the new and returning students. This year CIS3 plans to host great events that everyone will enjoy. Whether it be a games night, a networking event, or a fundraiser, we hope you all have a great time.</p>
                     </div>
                     <div class="large-6 columns">

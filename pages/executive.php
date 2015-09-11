@@ -11,7 +11,7 @@
 		<div class="logo-container full-width dark">
 			<div class="row">
 				<div class="text-center large-8 columns large-offset-2 small-8 small-offset-2 title-line">
-					<a href="index.html"><img class="logo-max-height" src="home" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
+					<a href="index.html"><img class="logo-max-height" src="" data-interchange="[img/CIS-v2.png, (default)], [img/CIS-v2.png, (large)]">
 						<noscript><img src="img/CIS-v2.png">
 						</noscript>
 					</a>
@@ -186,7 +186,7 @@
 			</li>
 			<li>
 				<div class="panel text-center margin-bottom-none border-bottom-none" data-equalizer-watch>
-					<img src="img/Executive-Profiles/Brandon-Cochrane/Headshot.jpg" width=100px class="executiveImage">
+					<img src="img/Executive-Profiles/Brandon-Cochrane/headshot.jpg" width=100px class="executiveImage">
 					<h5 class="underline-black">Brandon Cochrane</h5>
 					<p class="font-italic">VP Communications</p>
 					<p class="text-left">Coulton Fraser is pretty good at letting me win in videogames. What a nice guy.</p>

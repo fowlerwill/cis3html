@@ -28,38 +28,37 @@
 
 <!-- TITLE -->
 <div class="row">
-    <div class="column small-12 padding-top-double">
-        <h3>Bachelor of Computer Information Systems produces world class students</h3>
-
-        <h5>About the program</h5>
-        <p>Computer Information Systems studens learn the following skills:</p>
+    <div class="small-12 padding-top-double panel">
+        <h3>About our Members	</h3>
+        <p>Members of CIS3 are interested in topics including:</p>
 
         <div class="row">
-            <div class="column small-6">
-                <p>Computer Skills</p>
-                <ul>
-                    <li>programming</li>
-                    <li>database administration</li>
-                    <li>systems analysis and design</li>
-                    <li>Internet development</li>
-                    <li>hardware and networking support</li>
+            <div class="column small-6 text-center">
+                <h5>Computer Skills</h5>
+                <ul class="small-block-grid-2 padding-none margin-none">
+                    <li>Programming</li>
+                    <li>Database Administration</li>
+                    <li>Systems Analysis and Design</li>
+                    <li>App Development</li>
+                    <li>Hardware and Networking Support</li>
                 </ul>
-                <p>Programming languages taught include, but are definitely not limited to: Java, PHP, HTML, CSS, Javascript, C#, SQL</p>
+                <p class="text-left">Languages that our community is knowledgeable in include Java, PHP, HTML, CSS, Javascript, C#, and SQL</p>
             </div>
             <div class="column small-6">
-                <p>Business Skills</p>
-                <ul>
-                    <li>communication</li>
-                    <li>selling techniques</li>
-                    <li>entrepreneurship</li>
-                    <li>marketing</li>
-                    <li>business plan</li>
-                </ul>
+                <h5>Business Skills</h5>
+                <div>
+					<p>Communication</p> 
+					<p>Selling Techniques</p>
+					<p>Entrepreneurship</p>
+					<p>Marketing</p>
+					<p>Business Planning</p>
+                </div>
             </div>
         </div>
+		<h5>Interested in aiding the program or club?</h5>
         <p>
-            If you are interested in aiding the program and club by sponsoring an event, hiring a student for an internship, or a graduate full time, please contact <a
-                href="mailto:info@cis3.org">info@cis3.org</a>
+             We love opportunities! Sponsor one of our events, or post internship positions on our information board. Please <a
+                href="mailto:info@cis3.org" class="underline-black font-black">email us</a> for more information.
         </p>
 
     </div>

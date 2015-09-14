@@ -16,7 +16,7 @@
     </div>
 </div>
 
-<div class="row">
+<div class="row panel">
     <div class="column small-12 padding-top-double">
 
         <p>Welcome to the CIS3 student hub. We could go on about resources to help your Bachelor of Computer Information Systems student Career, but we both know, you're here for the jobs.</p>
@@ -24,7 +24,7 @@
     </div>
 </div>
 
-<div class="row">
+<div class="row panel">
     <div class="column medium-12 padding-top">
         <h3>1. Get your online presence in place</h3>
         <p>
@@ -33,18 +33,18 @@
         </p>
         <ol>
             <li>
-                <strong>Get a <a href="http://linkedin.com">LinkedIn</a> account.</strong> and completely fill it out
+                <strong class="font-black">Get a <a href="http://linkedin.com" class="font-black">LinkedIn</a> account.</strong> and completely fill it out
                 <ol>
                     <li>Connect with your friends and colleagues on Linkedin, new friends, current employers, family, whatever. You never know which connections you might make!</li>
                 </ol>
             </li>
 
-            <li><strong>Start a <a href="http://github.com">github</a> account.</strong> This one's a little more focused on those of you that want to code for a living, but nevertheless Github is a great place to showcase your coding skills to employers.</li>
+            <li><strong class="font-black">Start a <a href="http://github.com" class="font-black">github</a> account.</strong> This one's a little more focused on those of you that want to code for a living, but nevertheless Github is a great place to showcase your coding skills to employers.</li>
             <li>
-                <strong>Have a personal website.</strong> Make sure that it showcases your digital portfolio, resume, and links to your linkedin and github accounts!
+                <strong class="font-black">Have a personal website.</strong> Make sure that it showcases your digital portfolio, resume, and links to your linkedin and github accounts!
                 <ol>
                     <li>To get you started:</li>
-                    <li>Register a domain name like <i>iamyourname.com</i> with a service like <a href="http://namecheap.com">namecheap.com</a> </li>
+                    <li>Register a domain name like <i class="font-black">iamyourname.com</i> with a service like <a href="http://namecheap.com" class="font-black">namecheap.com</a> </li>
                     <li>Set up a hosting account (with the same company is always easiest) and put your website up! Whether its vanilla HTML, Wordpress, Drupal, or .Net - ask your fellow students for feedback and make it shine!</li>
                 </ol>
             </li>
@@ -55,7 +55,7 @@
     <div class="column medium-12 padding-top">
         <h3>2. Get your resume up to date</h3>
         <p>Career Services has some great examples of resumes and they can help you craft them into something that will make you stand above the other applicants!</p>
-        <p>Head over to their <strong><a href="http://www.mtroyal.ca/EmploymentCareers/CareerServices/Students/jobsearchtools.htm">Job Search Tools</a></strong> page and get that cover letter and resume good to go</p>
+        <p>Head over to their <strong><a href="http://www.mtroyal.ca/EmploymentCareers/CareerServices/Students/jobsearchtools.htm" class="font-black">Job Search Tools</a></strong> page and get that cover letter and resume good to go</p>
     </div>
 
     <div class="column medium-12">
@@ -73,7 +73,7 @@
             <li>Dissolve</li>
             <li>Anagram / Uppercut</li>
         </ul>
-        <p><small>Are you an employer that would like to be listed here? Please email <a href="mailto:info@cis3.org">info@cis3.org</a></small></p>
+        <p>Are you an employer that would like to be listed here? Please email <a href="mailto:info@cis3.org">info@cis3.org</a></p>
 
         <p>Looking for more?</p>
         <p>If you're looking for jobs, there's many aggregators that can help you search for that perfect job. Here's a couple prepopulated searches to get you started</p>

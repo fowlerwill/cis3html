@@ -48,7 +48,7 @@
     <div class="column small-12 padding-top padding-bottom">
         <div class="row">
             <div class="large-4 columns">
-                <img src="img/CodeReflectionScreen2.jpg" class="image-max">
+                
             </div>
             <div class="large-8 columns">
                 <h4>Welcome to the club</h4>
@@ -74,7 +74,7 @@
 
             </div>
             <div class="large-4 columns">
-                <img src="img/MacBookBench.jpg" class="image-max hide-for-small">
+                
             </div>
         </div>
     </div>

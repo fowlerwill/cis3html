@@ -21,6 +21,8 @@
 			<li class="divider"></li>
             <li class="animate-hover <?= ($_GET['p'] == 'events') ? 'active' : ''; ?>"><a href="events" >Events</a></li>
 			<li class="divider"></li>
+			<li class="animate-hover <?= ($_GET['p'] == 'forStudents') ? 'active' : ''; ?>"><a href="forStudents" class="nav-box">For Students</a></li>
+			<li class="divider"></li>
             <li class="<?= ($_GET['p'] == 'executive') ? 'active' : ''; ?>"><a href="executive" >Executives</a></li>
 			<li class="divider"></li>
 			<li class="<?= ($_GET['p'] == 'about') ? 'active' : ''; ?>"><a href="about" >About Us</a></li>

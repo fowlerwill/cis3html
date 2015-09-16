@@ -24,16 +24,15 @@
 			</div>
 		</div>
 	</div>
-
+<div class="full-width padding-top-double">
 	<div class="row">
-		<div class="column small-12 padding padding-top-double text-center light">
+		<div class="column small-12 padding-double text-center light">
 			<iframe id="eventCalendar" src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23D9D9D9&amp;src=mtroyal.ca_t35263g1j9995rc0mojd17eufo%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FEdmonton" style=" border-width:0 " width="100%" frameborder="0" scrolling="no"></iframe>
 		</div>		
 	</div>
 	
-	<div class="row panel">
+	<div class="panel row">
 			<h3 class="text-center">Annual Events</h3>
-		<div class="row text-center"></div>
 		<p>The following events listed below are standard activities for the club in an academic year. These events should be put on annually at the bare minimum in order to maintain club presence and the sense of community.</p>
 		
 		<ul class="small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
@@ -51,5 +50,6 @@
 		</ul>
 		<ul class="hide-for-small small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
 		<li class="medium-grey" data-equalizer-watch><img src="img/events/seasonal-events.jpg" height="140px" width="249px"></li><li class="dark-blue" data-equalizer-watch><img src="img/events/showcase-showdown.jpg" height="140px" width="249px"></li><li class="blue" data-equalizer-watch><img src="img/events/summer-bbq.jpg" height="140px" width="249px"></li></ul>
+	</div>
 	</div>
 	

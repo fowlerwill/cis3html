@@ -38,7 +38,6 @@ CIS3: connecting BCIS students to the IT community within Mount Royal and Calgar
 			<h3 class="text-center">The CISters</h3>
 			<p class="text-left">
 				The CISters (sisters) involves bi-monthly meetings where the women of the BCIS and the CS transfer programs can meet and socialize.
-				.
 			</p>
 			<button class="hightlight radius">More Information</button>
 		</li>

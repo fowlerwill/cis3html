@@ -54,6 +54,8 @@ h6 {
 /* = HTML & GENERAL ELEMENTS
 -----------------------------------------------------------------------------*/
 
+.box-shadow{box-shadow: 5px 5px 5px #000;}
+
 .fullWidth {
 	width: 100%;
 	margin-left: auto;
@@ -115,6 +117,11 @@ h6 {
 }
 .margin-bottom-none {
 	margin-bottom: 0rem;
+}
+
+.margin-side-expand{
+	margin-left: 0.9375rem;
+	margin-right: 0.9375rem;
 }
 
 .margin {
@@ -454,6 +461,8 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 .dark {
 	background-color: #343434;
 }
+
+.light-grey{background-color: #999999;}
 
 .highlight {
 	background-color: #C2D5EB;

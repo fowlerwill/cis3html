@@ -1,6 +1,7 @@
 <?php
 /**
  * FOR EMPLOYERS TO DISCOVER STUDENTS
+ * @author Coulton Fraser
  * @author Will Fowler
  * Date: 28/08/15
  */

@@ -33,42 +33,34 @@
 			<div class="row">
 				<div class="column small-12 text-center">
 					<ul class="small-block-grid-2 medium-block-grid-4">
-						<li><img src="http://placehold.it/100x100">
-							<p>Java</p>
+						<li><img src="img/skills/java.png">
+							<p>JAVA</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>HTML</p>
+						<li><img src="img/skills/html.png">
+							<p>WEB <br> DEVELOPMENT</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>SEO</p>
+						<li><img src="img/skills/market.png">
+							<p>MARKETING <br> FUNDAMENTALS</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>JS</p>
+						<li><img src="img/skills/sql.png">
+							<p>DATABASE <br> MANAGEMENT</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>MARKETING</p>
+						<li><img src="img/skills/communication.png">
+							<p>BUSINESS <br> COMMUNICATIONS</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>SQL</p>
+						<li><img src="img/skills/app.png">
+							<p>APP <br> DEVELOPMENT</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>COMMUNICATIONS</p>
+						<li><img src="img/skills/support.png">
+							<p>USER <br> SUPPORT</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>APP DEVELOPMENT</p>
+						<li><img src="img/skills/accounting.png">
+							<p>BUSINESS <br> MANAGEMENT</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>DATABASES</p>
+						<li><img src="img/skills/accounting.png">
+							<p>SYSTEMS <br> ANALYSIS</p>
 						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>TECH SUPPORT</p>
-						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>ENTREPRENEURSHIP</p>
-						</li>
-						<li><img src="http://placehold.it/100x100">
-							<p>SYSTEM ANALYSIS</p>
-						</li>
+						
 					</ul>
 				</div>
 			</div>

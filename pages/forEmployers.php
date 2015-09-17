@@ -58,9 +58,6 @@
 						<li><img src="img/skills/accounting.png">
 							<p>BUSINESS <br> MANAGEMENT</p>
 						</li>
-						<li><img src="img/skills/accounting.png">
-							<p>SYSTEMS <br> ANALYSIS</p>
-						</li>
 						
 					</ul>
 				</div>

@@ -448,10 +448,21 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 }
 
 .font-black {
-	color: #000000 !important;
+	color: #000000;
 }
 .font-white {
 	color: #FFFFFF !important;
+}
+.font-dark {
+	color: #343434;
+}
+.font-blue {
+	color: #395b7c;
+}
+
+.font-large
+{
+	font-size: 7rem;
 }
 
 .font-italic {

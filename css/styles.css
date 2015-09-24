@@ -54,6 +54,11 @@ h6 {
 /* = HTML & GENERAL ELEMENTS
 -----------------------------------------------------------------------------*/
 
+.img-responive {
+	width: 100%;
+	height: auto;
+}
+
 .box-shadow{box-shadow: 5px 5px 5px #000;}
 
 .fullWidth {
@@ -542,4 +547,12 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 		margin: auto;
 		float: none;
 	}
+}
+
+/* = EVENTS PAGE
+-----------------------------------------------------------------------------*/
+
+#eventCalendar {
+	min-height: 500px;
+	height: 40vh;
 }

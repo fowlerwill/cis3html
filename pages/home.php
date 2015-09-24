@@ -49,5 +49,40 @@
 		<p>CIS3 is a club for the students of Mount Royal University's Bachelor of Computer Information Systems and Computer Science transfer programs. CIS3 aims to complete the student experience by providing what school alone cannot. Kinship, esprit de corps, the social component of success, provided by the friends that gather together to discuss relevant issues around their degrees, and their industry, as well as relaxing, playing video games, board games, networking with peers and industry.</p>
 		<p>If you a new to the club be sure to check out the executive page to connect with the team, and see projects our executives are working on. And to those returning for another year, you can expect bigger and better events.</p>
 	</div>
+    <div class="row">
+        <div class="column">
+            <h2>News</h2>
+            <hr>
+        </div>
+    </div>
+    <!--  NEWS ROLL  -->
+    <?php
+        //TODO: BUILD A BLOG ROLL OF THE MOST RECENT 3 news ENTRIES
+    ?>
+    <div class="row padding-top">
+        <div class="column medium-4 text-right">
+            <a href="http://www.fallcon.com">
+                <img src="img/news/fallcon.jpg" class="img-responive" alt="Fallcon poster">
+            </a>
+        </div>
+        <div class="column medium-8">
+            <h3>Fallcon is coming up! Get your tickets</h3>
+            <p>Come and play boardgames at FallCon 28, October 16 through 18. Immense game library, friendly game teachers, tournaments, panels, massive auction, and massiver flea market. Find out more at
+                <a href="http://www.fallcon.com" target="_blank" class="font-black underline-black">www.fallcon.com</a></p>
+        </div>
+    </div>
+
+    <div class="row padding-top">
+        <div class="column medium-8">
+            <h3>The yearly Hitachi ID Systems puzzle!</h3>
+            <p>These guys always put together a great puzzle, and this year is no exception. Figure it out and get hired!</p>
+            <p>Go and see them at the science and engineering career fair at the Jack Simpson Gymnasium at U of C on September 22nd 10am - 4pm</p>
+        </div>
+        <div class="column medium-4 text-right">
+            <a href="http://www.hitachi-id.com">
+                <img src="img/news/hitachipuzzle.png" class="img-responive" alt="Hitachi ID Systems Hiring Puzzle">
+            </a>
+        </div>
+    </div>
 
 </div>

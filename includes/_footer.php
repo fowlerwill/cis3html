@@ -58,7 +58,7 @@
         e.src = 'https://www.google-analytics.com/analytics.js';
         r.parentNode.insertBefore(e, r)
     }(window, document, 'script', 'ga'));
-    ga('create', 'UA-XXXXX-X', 'auto');
+    ga('create', 'UA-56122527-1', 'auto');
     ga('send', 'pageview');
 </script>
 <script src="js/vendor/jquery.js"></script>

@@ -75,7 +75,7 @@
     <div class="row padding-top">
         <div class="column medium-8">
             <h3>The yearly Hitachi ID Systems puzzle!</h3>
-            <p>These guys always put together a great puzzle, and this year is no exception. Figure it out and get hired!</p>
+            <p>These guys always put together a great puzzle, and this year is no exception.</p>
             <p>Go and see them at the science and engineering career fair at the Jack Simpson Gymnasium at U of C on September 22nd 10am - 4pm</p>
         </div>
         <div class="column medium-4 text-right">

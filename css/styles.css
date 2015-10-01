@@ -77,6 +77,10 @@ h6 {
 .border-bottom-none {
 	border-bottom: none;
 }
+.border-none {
+	border: none;
+}
+
 
 .margin-side-collapse {
 	margin-left: 0px !important;
@@ -310,7 +314,7 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 
 .executiveImage {
 	border-radius: 100%;
-	border: solid #999999 1px;
+	border: solid #e7e7e7 2px;
 }
 
 .floor {
@@ -551,6 +555,14 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 
 /* = EVENTS PAGE
 -----------------------------------------------------------------------------*/
+.executive-card p, .executive-card i, .executive-card > div{
+	color: #e7e7e7;
+	background-color: #2d3640;
+	border: none;
+}
+.executive-card h5 {
+	color: #e7e7e7;
+}
 
 #eventCalendar {
 	min-height: 500px;

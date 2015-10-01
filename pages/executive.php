@@ -28,41 +28,38 @@
 	</div>
 
 	<!-- Executive Profiles -->
-	<div class="medium-grey">
+	<div class="panel margin-bottom-none">
 		<div class="padding-double row" data-equalizer>
-			<ul class="small-block-grid-1 large-block-grid-1">
-				
-			</ul>
 			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Will-Fowler/headshot.jpeg" width=100px class="executiveImage">
-						<h5 class="underline-black">Will Fowler</h5>
+						<h5 class="underline-white">Will Fowler</h5>
 						<p class="font-italic">President</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
-					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
+					<div class="panel text-center padding-top-none margin-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Will</p>
 						<div class="row floor">
 							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square font-black"></i>
+								<i class="icon-font-small fa fa-facebook-square"></i>
 							</a>
 							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+								<i class="icon-font-small fa fa-linkedin-square"></i>
 							</a>
 							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square font-black"></i>
+								<i class="icon-font-small fa fa-github-square"></i>
 							</a>
 							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope font-black"></i>
+								<i class="icon-font-small fa fa-envelope"></i>
 							</a>
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Priyash-Bista/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Priyash Bista</h5>
+						<h5 class="underline-white">Priyash Bista</h5>
 						<p class="font-italic">Senior Vice President</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
@@ -84,10 +81,10 @@
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Brandon-Devaleriola/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Brandon Devaleriola</h5>
+						<h5 class="underline-white">Brandon Devaleriola</h5>
 						<p class="font-italic">VP Finance</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
@@ -112,10 +109,10 @@
 				
 			</ul>
 			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Amanda-Haynes/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Amanda Haynes</h5>
+						<h5 class="underline-white">Amanda Haynes</h5>
 						<p class="font-italic">VP Internal</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
@@ -137,10 +134,10 @@
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Nicole-Waldern/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Nicole Waldern</h5>
+						<h5 class="underline-white">Nicole Waldern</h5>
 						<p class="font-italic">VP External</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
@@ -162,10 +159,10 @@
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Coulton-Fraser/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Coulton Fraser</h5>
+						<h5 class="underline-white">Coulton Fraser</h5>
 						<p class="font-italic">VP Marketing</p>
 						<p class="text-left">Traffic, time, and plane ticket prices are my worst enemies. If I'm not burried in assignments I am burried in snow while shredding the mountains. I can also speak two languages, English and Adobe.</p>
 					</div>
@@ -190,10 +187,10 @@
 				
 			</ul>
 			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Ryan-McLaughlin/RM_Temp_Headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Ryan McLaughlin</h5>
+						<h5 class="underline-white">Ryan McLaughlin</h5>
 						<p class="font-italic">VP Student Relations</p>
 						<p class="text-left">
 							What do I do? Like all the executives, I'm there to help my fellow students get engaged with the various events put on by our student's society. I'm approachable, inclusive, and enthusiastic (though not very modest) -- so don't be afraid to come up and chat about your classes, our upcoming events, or more preferably - what you've been watching (I'm an avid cinemaphile).
@@ -217,10 +214,10 @@
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Brandon-Cochrane/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Brandon Cochrane</h5>
+						<h5 class="underline-white">Brandon Cochrane</h5>
 						<p class="font-italic">VP Communications</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>

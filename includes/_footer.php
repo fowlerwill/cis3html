@@ -2,8 +2,6 @@
         FOOTER
     -->
 <footer class="dark white-text full-width">
-
-    <hr/>
     <div class="row">
         <div class="large-6 small-12 medium-6 columns">
             <h5 class="white-text">Connect with us!</h5>

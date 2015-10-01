@@ -323,10 +323,6 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	display: inline-block
 }
 
-.executiveCard {
-	display: table;
-}
-
 
 /*Call-2-Action Buttons and background image*/
 
@@ -561,6 +557,15 @@ APPLY TO ALL IMAGES EXCEPT TITLE IMG
 	border: none;
 }
 .executive-card h5 {
+	color: #e7e7e7;
+}
+
+.events-card p, .events-card i, .events-card > div{
+	color: #e7e7e7;
+	background-color: #2d3640;
+	border: none;
+}
+.events-card h3 {
 	color: #e7e7e7;
 }
 

@@ -24,32 +24,89 @@
 			</div>
 		</div>
 	</div>
-<div class="full-width padding-top-double">
+<div class="full-width padding-top-double panel">
 	<div class="row">
-		<div class="column small-12 padding-double text-center light">
+		<div class="column small-12 padding-double text-center">
 			<iframe id="eventCalendar" src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23D9D9D9&amp;src=mtroyal.ca_t35263g1j9995rc0mojd17eufo%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FEdmonton" style=" border-width:0 " width="100%" frameborder="0" scrolling="no"></iframe>
 		</div>		
 	</div>
-	
-	<div class="panel row">
-			<h3 class="text-center">Annual Events</h3>
-		<p>The following events listed below are standard activities for the club in an academic year. These events should be put on annually at the bare minimum in order to maintain club presence and the sense of community.</p>
-		
-		<ul class="small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
-		<li class="blue text-center " data-equalizer-watch><h4 class="font-white padding-double underline-white">Networking Event</h4><p class="font-white">Lead: President in conjunction with VP External</p><img class="hide-for-medium-up" src="img/events/networking.jpg" ></li>
-			
-		<li class="text-center medium-grey" data-equalizer-watch><h4 class="font-white padding-double underline-white">Oculus Rift Fundraiser</h4><p class="font-white">Lead: VP Student Relations</p><img class="hide-for-medium-up" src="img/events/oculus.jpg" ></li>
-			<li class="text-center dark-blue" data-equalizer-watch><h4 class="font-white padding-double underline-white">Games Night</h4><p class="font-white">Lead: VP Internal</p><img class="hide-for-medium-up" src="img/events/games-night.jpg" ></li>
-		</ul>
-		<ul class="hide-for-small small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
-		<li class="blue" data-equalizer-watch><img src="img/events/networking.jpg" height="140px" width="249px"></li><li class="medium-grey" data-equalizer-watch><img src="img/events/oculus.jpg" height="140px" width="249px"></li><li class="dark-blue" data-equalizer-watch><img src="img/events/games-night.jpg" height="140px" width="249px"></li></ul>
-		<ul class="small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
-		<li class="text-center medium-grey" data-equalizer-watch><h4 class="font-white padding-double underline-white">Seasonal Events</h4><p class="font-white">Lead: VP Internal</p><img class="hide-for-medium-up" src="img/events/seasonal-events.jpg" ></li>
-			<li class="text-center dark-blue" data-equalizer-watch><h4 class="font-white padding-double underline-white">Showcase Showdown</h4><p class="font-white">Lead: Vice President in conjunction with Career Services</p><img class="hidden-for-medium-up" src="img/events/showcase-showdown.jpg"></li>
-			<li class="text-center blue" data-equalizer-watch><h4 class="font-white padding-double underline-white">Summertime BBQ</h4><p class="font-white">Lead: President and VP Finance</p><img class="hide-for-medium-up" src="img/events/summer-bbq.jpg"></li>
-		</ul>
-		<ul class="hide-for-small small-block-grid-1 medium-block-grid-3 text-center" data-equalizer>
-		<li class="medium-grey" data-equalizer-watch><img src="img/events/seasonal-events.jpg" height="140px" width="249px"></li><li class="dark-blue" data-equalizer-watch><img src="img/events/showcase-showdown.jpg" height="140px" width="249px"></li><li class="blue" data-equalizer-watch><img src="img/events/summer-bbq.jpg" height="140px" width="249px"></li></ul>
+	<div class="panel margin-bottom-none border-none">
+		<div class="padding-double row" data-equalizer>
+			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+				<li class="events-card">
+					<div class="panel text-center margin-bottom-none box-shadow padding-double" data-equalizer-watch>
+						<h3 class="underline-white">Networking<br> Event</h3>
+						<p class="font-italic">Lead: President</p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none"></p>
+						<div class="row floor padding-top-double">
+							<img class="" src="img/events/networking.jpg">
+						</div>
+					</div>
+				</li>
+				<li class="events-card">
+					<div class="panel text-center margin-bottom-none box-shadow padding-double" data-equalizer-watch>
+						<h3 class="underline-white">Oculus <br>Rift</h3>
+						<p class="font-italic">Lead: VP Student Relations</p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none"></p>
+						<div class="row floor padding-top-double">
+							<img class="" src="img/events/oculus.jpg">
+						</div>
+					</div>
+				</li>
+				<li class="events-card">
+					<div class="panel text-center margin-bottom-none box-shadow padding-double" data-equalizer-watch>
+						<h3 class="underline-white">Seasonal <br>Events</h3>
+						<p class="font-italic">Lead: VP Internal</p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none"></p>
+						<div class="row floor padding-top-double">
+							<img class="" src="img/events/seasonal-events.jpg">
+						</div>
+					</div>
+				</li>
+				<li class="events-card">
+					<div class="panel text-center margin-bottom-none box-shadow padding-double" data-equalizer-watch>
+						<h3 class="underline-white">Games <br>Night</h3>
+						<p class="font-italic">Lead: VP Internal</p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none"></p>
+						<div class="row floor padding-top-double">
+							<img class="" src="img/events/games-night.jpg">
+						</div>
+					</div>
+				</li>
+				<li class="events-card">
+					<div class="panel text-center margin-bottom-none box-shadow padding-double" data-equalizer-watch>
+						<h3 class="underline-white">Showcase <br> Showdown</h3>
+						<p class="font-italic">Lead: Vice President</p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none"></p>
+						<div class="row floor padding-top-double">
+							<img class="" src="img/events/showcase-showdown.jpg">
+						</div>
+					</div>
+				</li>
+				<li class="events-card">
+					<div class="panel text-center margin-bottom-none box-shadow padding-double" data-equalizer-watch>
+						<h3 class="underline-white">Summertime <br>BBQ</h3>
+						<p class="font-italic">Lead: VP Finance</p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none"></p>
+						<div class="row floor padding-top-double">
+							<img class="" src="img/events/summer-bbq.jpg">
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
 	</div>
 	</div>
 	

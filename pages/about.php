@@ -11,7 +11,7 @@
 		</div>
 		<div class="row ">
 			<div class="columns text-center small-8 small-offset-2">
-				<h1 class="link-animation cis-title white-text">Information in CIS3</h1>
+				<h1 class="link-animation cis-title white-text">Information</h1>
 			</div>
 		</div>
 	</div>

@@ -1,3 +1,4 @@
+<!--  LOGO  -->
 <div class="highlight logo-body">
 	<div class="logo-container full-width dark">
 		<div class="row">
@@ -15,8 +16,7 @@
 		</div>
 	</div>
 </div>
-<div class="panel margin-bottom-none">
-	<div class="row">
+<div class="panel margin-bottom-none margin-none">
 			<h2 class="text-center padding-double underline-black">Develop More Than Just Your Code</h2>
 			<p>
 				If you're interested in getting a job in the information technology sector, you're going to want to be discoverable online. With that in mind, here are a few things that have worked for students in the past to develop an online persona that employers will love.
@@ -57,7 +57,6 @@
 				</li>
 			</ul>
 	</div>
-</div>
 <div class="panel light margin-bottom-none">
 	<div class="row">
 		<h2 class="text-center padding-double underline-black">Explore the Job Bank</h2>
@@ -126,10 +125,7 @@
 						<li><a class="externallink font-black underline-black" title="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md" href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md" rel="nofollow">https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md</a></li>
 					</ul>
 				</li>
-				<li>Bucky's Room - Awesome video tutorials for everything from introduction to java to polymorphism and inheritance
-					<ul>
-						<li><a class="externallink font-black underline-black" title="https://buckysroom.org/" href="https://buckysroom.org/" rel="nofollow">https://buckysroom.org/</a></li>
-					</ul>
+				<li>
 					<h3>Learn to program courses</h3>
 					<ul>
 						<ul>

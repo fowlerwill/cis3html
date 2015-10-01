@@ -2,6 +2,7 @@
 /**
  * EXECUTIVES PAGE
  * @author Will Fowler
+ * @author Coulton Fraser
  * Date: 28/08/15
  */
 ?>
@@ -30,12 +31,15 @@
 	<div class="medium-grey">
 		<div class="padding-double row" data-equalizer>
 			<ul class="small-block-grid-1 large-block-grid-1">
+				
+			</ul>
+			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
 				<li>
 					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Will-Fowler/headshot.jpeg" width=100px class="executiveImage">
 						<h5 class="underline-black">Will Fowler</h5>
 						<p class="font-italic">President</p>
-						<p class="text-left">Coulton Fraser puts the 'I' in 'Our Team'.</p>
+						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Will</p>
@@ -55,15 +59,12 @@
 						</div>
 					</div>
 				</li>
-			</ul>
-			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
-
 				<li>
 					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Priyash-Bista/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-black">Priyash Bista</h5>
 						<p class="font-italic">Senior Vice President</p>
-						<p class="text-left">Coulton Fraser is a generally outstanding guy.</p>
+						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Priyash</p>
@@ -88,7 +89,7 @@
 						<img src="img/Executive-Profiles/Brandon-Devaleriola/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-black">Brandon Devaleriola</h5>
 						<p class="font-italic">VP Finance</p>
-						<p class="text-left">Where should I go? In a four column or in a new row?</p>
+						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Brandon</p>
@@ -108,12 +109,15 @@
 						</div>
 					</div>
 				</li>
+				
+			</ul>
+			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
 				<li>
 					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Amanda-Haynes/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-black">Amanda Haynes</h5>
 						<p class="font-italic">VP Internal</p>
-						<p class="text-left">Coulton Fraser is great at sports.</p>
+						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Amanda</p>
@@ -133,14 +137,12 @@
 						</div>
 					</div>
 				</li>
-			</ul>
-			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
 				<li>
 					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Nicole-Waldern/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-black">Nicole Waldern</h5>
 						<p class="font-italic">VP External</p>
-						<p class="text-left">Coulton Fraser is very photogenic.</p>
+						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Nicole</p>
@@ -165,7 +167,7 @@
 						<img src="img/Executive-Profiles/Coulton-Fraser/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-black">Coulton Fraser</h5>
 						<p class="font-italic">VP Marketing</p>
-						<p class="text-left">If I could have any super power it would be teleportation. Traffic, time, and plane ticket prices are my worst enemies. If I'm not burried in assignments I am burried in snow while shredding the mountains. I can also speak two languages, English and Adobe.</p>
+						<p class="text-left">Traffic, time, and plane ticket prices are my worst enemies. If I'm not burried in assignments I am burried in snow while shredding the mountains. I can also speak two languages, English and Adobe.</p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Coulton</p>
@@ -185,31 +187,7 @@
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Brandon-Cochrane/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Brandon Cochrane</h5>
-						<p class="font-italic">VP Communications</p>
-						<p class="text-left">Coulton Fraser is pretty good at letting me win in videogames. What a nice guy.</p>
-					</div>
-					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
-						<p class="padding-bottom-none margin-bottom-none">Connect with Brandon</p>
-						<div class="row floor">
-							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square font-black"></i>
-							</a>
-							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
-							</a>
-							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square font-black"></i>
-							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope font-black"></i>
-							</a>
-						</div>
-					</div>
-				</li>
+				
 			</ul>
 			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
 				<li>
@@ -239,41 +217,15 @@
 						</div>
 					</div>
 				</li>
-
 				<li>
 					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Andrew-Si/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Andrew Si</h5>
-						<p class="font-italic">3rd Year Representative</p>
-						<p class="text-left">Coulton Fraser is simply the best.</p>
+						<img src="img/Executive-Profiles/Brandon-Cochrane/headshot.jpg" width=100px class="executiveImage">
+						<h5 class="underline-black">Brandon Cochrane</h5>
+						<p class="font-italic">VP Communications</p>
+						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
-						<p class="padding-bottom-none margin-bottom-none">Connect with Andrew</p>
-						<div class="row floor">
-							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square font-black"></i>
-							</a>
-							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
-							</a>
-							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square font-black"></i>
-							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope font-black"></i>
-							</a>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="panel text-center margin-bottom-none border-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Raj-Sidhu/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-black">Raj Sidhu</h5>
-						<p class="font-italic">3rd Year Representative</p>
-						<p class="text-left">Coulton Fraser is just an amazing person.</p>
-					</div>
-					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
-						<p class="padding-bottom-none margin-bottom-none">Connect with Raj</p>
+						<p class="padding-bottom-none margin-bottom-none">Connect with Brandon</p>
 						<div class="row floor">
 							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
 								<i class="icon-font-small fa fa-facebook-square font-black"></i>

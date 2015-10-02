@@ -28,6 +28,7 @@
 					<h5>Create a <a href="http://linkedin.com" class="externallink font-black"><strong class="font-black underline-black">LinkedIn</strong></a> Account</h5>
 					<p class="text-left">Connect with your friends and colleagues on Linkedin, new friends, current employers, family, whatever. You never know which connection will be the greatest asset.</p>
 				</li>
+				
 
 				<li data-equalizer-watch>
 <!--					<img src="img/skills/java.png">-->
@@ -100,7 +101,10 @@
 	<div class="row">
 		<div class="column small-12 padding-top-double">
 			<h2 class="text-center padding-double underline-black">Student Resources</h2>
-			<p>Here are a few links that you will definitely find useful for your student life at Mount Royal:</p>
+			<div>
+				<h5>BCIS Course Map</h5>
+				<a class="externallink font-black underline-black" title="http://blogs.mtroyal.ca/bcis/" href="http://blogs.mtroyal.ca/bcis/" rel="nofollow"><div></div></a>
+			</div>
 			<ul>
 				<li>BCIS Blog - Alan Fedoruk
 					<ul>
@@ -118,7 +122,7 @@
 					</ul>
 				</li>
 			</ul>
-			<h2>Programming Links</h2> <p>Links for all sorts of awesome programming books, links, tutorials, etc.</p>
+			<h5>Programming Links</h5> <p>Links for all sorts of awesome programming books, links, tutorials, etc.</p>
 			<ul>
 				<li>Every free thing related to programming ever. Seriously take a look at this
 					<ul>
@@ -126,7 +130,7 @@
 					</ul>
 				</li>
 				<li>
-					<h3>Learn to program courses</h3>
+					<h5>Learn to program courses</h5>
 					<ul>
 						<ul>
 							<li><a class="externallink font-black underline-black" title="https://udacity.com" href="https://udacity.com" rel="nofollow">Udacity</a></li>
@@ -138,7 +142,7 @@
 					</ul>
 					Udemy is an online school that teaches many different things for a price... but many of these coupons allow these courses to be taken for free.</li>
 			</ul>
-			<h2><span id="Business_Links" class="mw-headline font-dark">Business Links</span></h2>
+			<h5><span id="Business_Links" class="mw-headline font-dark">Business Links</span></h5>
 			<p>Computer Information Systems students are particularly adept and trained to the world of startups. A fundamental training in both computer science and business practices means that we are exactly what startups need. Below you will find our student led startups and opportunities for students in existing startups</p>
 			<ul>
 				<li>An exhaustive list of links and tools for startups:

@@ -58,7 +58,28 @@
 				</li>
 			</ul>
 	</div>
-<div class="panel light margin-bottom-none">
+	<div class="panel light margin-bottom-none">
+	<div class="row">
+		<div class="column small-12 padding-top-double">
+			<h2 class="text-center padding-double underline-black">Student Resources</h2>
+			<div>
+				<h3 class="text-center">Ready, Set, Register!</h3>
+			</div>
+				<div class="medium-6 medium-offset-3">
+					<a  title="http://www.gliffy.com/go/publish/5519610" href="http://www.gliffy.com/go/publish/5519610" rel="nofollow">
+			<button class="button expand">Check Out The Course Map</button>
+					</a>
+			</div>
+			<div>
+				<h3 class="text-center">Advising</h3>
+			</div>
+				<div class="medium-6 medium-offset-3">
+			<a title="http://blogs.mtroyal.ca/bcis/" href="http://blogs.mtroyal.ca/bcis/" rel="nofollow"><button class="button expand">BCIS Advising Blog</button></a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="panel">
 	<div class="row">
 		<h2 class="text-center padding-double underline-black">Explore the Job Bank</h2>
 		<p>We're lucky to have some great relationships with employers, if you're interested in the following companies, talk with your CIS3 executive and we can set you up with an alumni from one of these companies to talk to!</p>
@@ -95,63 +116,5 @@
 			</li>
 		</ul>
 		<p class="text-center">Are you an employer that would like to be listed here? Please email <a href="mailto:info@cis3.org" class="font-black underline-black">info@cis3.org</a></p>
-	</div>
-</div>
-<div class="panel">
-	<div class="row">
-		<div class="column small-12 padding-top-double">
-			<h2 class="text-center padding-double underline-black">Student Resources</h2>
-			<div>
-				<h5>BCIS Course Map</h5>
-				<a class="externallink font-black underline-black" title="http://blogs.mtroyal.ca/bcis/" href="http://blogs.mtroyal.ca/bcis/" rel="nofollow"><div></div></a>
-			</div>
-			<ul>
-				<li>BCIS Blog - Alan Fedoruk
-					<ul>
-						<li>This tells you what to take, and when to take it</li>
-						<li><a class="externallink font-black underline-black" title="http://blogs.mtroyal.ca/bcis/" href="http://blogs.mtroyal.ca/bcis/" rel="nofollow">http://blogs.mtroyal.ca/bcis/</a>
-							<ul>
-								<li>The course map is particularly useful! (prerequisites, semesters, etc) <a class="externallink font-black underline-black" title="http://www.gliffy.com/go/publish/5519610" href="http://www.gliffy.com/go/publish/5519610" rel="nofollow">http://www.gliffy.com/go/publish/5519610</a></li>
-							</ul>
-						</li>
-					</ul>
-				</li>
-				<li>Student Loans
-					<ul>
-						<li><a class="externallink font-black underline-black" title="http://studentaid.alberta.ca/" href="http://studentaid.alberta.ca/" rel="nofollow">http://studentaid.alberta.ca/</a></li>
-					</ul>
-				</li>
-			</ul>
-			<h5>Programming Links</h5> <p>Links for all sorts of awesome programming books, links, tutorials, etc.</p>
-			<ul>
-				<li>Every free thing related to programming ever. Seriously take a look at this
-					<ul>
-						<li><a class="externallink font-black underline-black" title="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md" href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md" rel="nofollow">https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md</a></li>
-					</ul>
-				</li>
-				<li>
-					<h5>Learn to program courses</h5>
-					<ul>
-						<ul>
-							<li><a class="externallink font-black underline-black" title="https://udacity.com" href="https://udacity.com" rel="nofollow">Udacity</a></li>
-							<li><a class="externallink font-black underline-black" title="https://www.teamtreehouse.com" href="http://referrals.trhou.se/brandoncochrane" rel="nofollow">Treehouse</a></li>
-							<li><a class="externallink font-black underline-black" title="https://www.codeschool.com" href="https://www.codeschool.com" rel="nofollow">Code School</a></li>
-							<li><a class="externallink font-black underline-black" title="http://www.codecademy.com/" href="http://www.codecademy.com/" rel="nofollow">Code Academy</a></li>
-							<li><a class="externallink font-black underline-black" title="http://udemycoupon.discountsglobal.com/coupon-listings/" href="http://udemycoupon.discountsglobal.com/coupon-listings/" rel="nofollow">Udemy Coupons</a></li>
-						</ul>
-					</ul>
-					Udemy is an online school that teaches many different things for a price... but many of these coupons allow these courses to be taken for free.</li>
-			</ul>
-			<h5><span id="Business_Links" class="mw-headline font-dark">Business Links</span></h5>
-			<p>Computer Information Systems students are particularly adept and trained to the world of startups. A fundamental training in both computer science and business practices means that we are exactly what startups need. Below you will find our student led startups and opportunities for students in existing startups</p>
-			<ul>
-				<li>An exhaustive list of links and tools for startups:
-					<ul>
-						<li><a class="externallink font-black underline-black" title="http://steveblank.com/tools-and-blogs-for-entrepreneurs/" href="http://steveblank.com/tools-and-blogs-for-entrepreneurs/" rel="nofollow">http://steveblank.com/tools-and-blogs-for-entrepreneurs/</a></li>
-					</ul>
-				</li>
-			</ul>
-
-		</div>
 	</div>
 </div>

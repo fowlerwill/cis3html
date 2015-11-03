@@ -30,7 +30,7 @@
 	<!-- Executive Profiles -->
 	<div class="panel margin-bottom-none">
 		<div class="padding-double row" data-equalizer>
-			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
+			<ul class="small-block-grid-2 large-block-grid-4" data-equalizer>
 				<li class="executive-card">
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Will-Fowler/headshot.jpeg" width=100px class="executiveImage">
@@ -38,20 +38,20 @@
 						<p class="font-italic">President</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
-					<div class="panel text-center padding-top-none margin-top-none box-shadow">
+					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Will</p>
 						<div class="row floor">
-							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square"></i>
+							<a href="https://www.facebook.com/willcwf" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-facebook-square font-black"></i>
 							</a>
-							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square"></i>
+							<a href="https://ca.linkedin.com/in/wcwfowler" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
 							</a>
-							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square"></i>
+							<a href="https://github.com/fowlerwill" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-github-square font-black"></i>
 							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope"></i>
+							<a href="mailto:fowlerwill@gmail.com" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-envelope font-black"></i>
 							</a>
 						</div>
 					</div>
@@ -60,140 +60,8 @@
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Priyash-Bista/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-white">Priyash Bista</h5>
-						<p class="font-italic">Senior Vice President</p>
-						<p class="text-left"><!-- Biography --></p>
-					</div>
-					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
-						<p class="padding-bottom-none margin-bottom-none">Connect with Priyash</p>
-						<div class="row floor">
-							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square font-black"></i>
-							</a>
-							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
-							</a>
-							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square font-black"></i>
-							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope font-black"></i>
-							</a>
-						</div>
-					</div>
-				</li>
-				<li class="executive-card">
-					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Brandon-Devaleriola/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-white">Brandon Devaleriola</h5>
-						<p class="font-italic">VP Finance</p>
-						<p class="text-left"><!-- Biography --></p>
-					</div>
-					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
-						<p class="padding-bottom-none margin-bottom-none">Connect with Brandon</p>
-						<div class="row floor">
-							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square font-black"></i>
-							</a>
-							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
-							</a>
-							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square font-black"></i>
-							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope font-black"></i>
-							</a>
-						</div>
-					</div>
-				</li>
-				
-			</ul>
-			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
-				<li class="executive-card">
-					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Amanda-Haynes/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-white">Amanda Haynes</h5>
-						<p class="font-italic">VP Internal</p>
-						<p class="text-left"><!-- Biography --></p>
-					</div>
-					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
-						<p class="padding-bottom-none margin-bottom-none">Connect with Amanda</p>
-						<div class="row floor">
-							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square font-black"></i>
-							</a>
-							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
-							</a>
-							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square font-black"></i>
-							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope font-black"></i>
-							</a>
-						</div>
-					</div>
-				</li>
-				<li class="executive-card">
-					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Nicole-Waldern/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-white">Nicole Waldern</h5>
-						<p class="font-italic">VP External</p>
-						<p class="text-left"><!-- Biography --></p>
-					</div>
-					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
-						<p class="padding-bottom-none margin-bottom-none">Connect with Nicole</p>
-						<div class="row floor">
-							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square font-black"></i>
-							</a>
-							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
-							</a>
-							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square font-black"></i>
-							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope font-black"></i>
-							</a>
-						</div>
-					</div>
-				</li>
-				<li class="executive-card">
-					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Coulton-Fraser/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-white">Coulton Fraser</h5>
-						<p class="font-italic">VP Marketing</p>
-						<p class="text-left">Traffic, time, and plane ticket prices are my worst enemies. If I'm not burried in assignments I am burried in snow while shredding the mountains. I can also speak two languages, English and Adobe.</p>
-					</div>
-					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
-						<p class="padding-bottom-none margin-bottom-none">Connect with Coulton</p>
-						<div class="row floor">
-							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-facebook-square font-black"></i>
-							</a>
-							<a href="http://ca.linkedin.com/in/coultonf" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
-							</a>
-							<a href="https://github.com/cfras104" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-github-square font-black"></i>
-							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
-								<i class="icon-font-small fa fa-envelope font-black"></i>
-							</a>
-						</div>
-					</div>
-				</li>
-				
-			</ul>
-			<ul class="small-block-grid-1 large-block-grid-3" data-equalizer>
-				<li class="executive-card">
-					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Ryan-McLaughlin/RM_Temp_Headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-white">Ryan McLaughlin</h5>
-						<p class="font-italic">VP Student Relations</p>
+						<p class="font-italic">Vice President</p>
 						<p class="text-left">
-							What do I do? Like all the executives, I'm there to help my fellow students get engaged with the various events put on by our student's society. I'm approachable, inclusive, and enthusiastic (though not very modest) -- so don't be afraid to come up and chat about your classes, our upcoming events, or more preferably - what you've been watching (I'm an avid cinemaphile).
 						</p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
@@ -216,13 +84,35 @@
 				</li>
 				<li class="executive-card">
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
-						<img src="img/Executive-Profiles/Brandon-Cochrane/headshot.jpg" width=100px class="executiveImage">
-						<h5 class="underline-white">Brandon Cochrane</h5>
-						<p class="font-italic">VP Communications</p>
+						<img src="img/Executive-Profiles/Brandon-Devaleriola/headshot.jpg" width=100px class="executiveImage">
+						<h5 class="underline-white">Brandon Devaleriola</h5>
+						<p class="font-italic">Finance</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
 						<p class="padding-bottom-none margin-bottom-none">Connect with Brandon</p>
+						<div class="row floor">
+							<a href="https://www.facebook.com/brandon.deval" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-facebook-square font-black"></i>
+							</a>
+							<a href="https://ca.linkedin.com/pub/brandon-devaleriola/7b/957/319" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+							</a>
+							<a href="mailto:brandondeval@gmail.com" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-envelope font-black"></i>
+							</a>
+						</div>
+					</div>
+				</li>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
+						<img src="img/Executive-Profiles/Coulton-Fraser/headshot.jpg" width=100px class="executiveImage">
+						<h5 class="underline-white">Coulton Fraser</h5>
+						<p class="font-italic">Marketing</p>
+						<p class="text-left"></p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none">Connect with Coulton</p>
 						<div class="row floor">
 							<a href="https://www.facebook.com/coultonf" target="_blank" class="collapse">
 								<i class="icon-font-small fa fa-facebook-square font-black"></i>
@@ -233,7 +123,102 @@
 							<a href="https://github.com/cfras104" target="_blank" class="collapse">
 								<i class="icon-font-small fa fa-github-square font-black"></i>
 							</a>
-							<a href="mailto:cfras104@mtroyal.ca" target="_blank" class="collapse">
+							<a href="mailto:cjrfraser@gmail.com" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-envelope font-black"></i>
+							</a>
+						</div>
+					</div>
+				</li>
+			</ul>
+			<ul class="small-block-grid-2 large-block-grid-4" data-equalizer>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
+						<img src="img/Executive-Profiles/Nicole-Waldern/headshot.jpg" width=100px class="executiveImage">
+						<h5 class="underline-white">Nicole Waldern</h5>
+						<p class="font-italic">External</p>
+						<p class="text-left"><!-- Biography --></p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none">Connect with Nicole</p>
+						<div class="row floor">
+							<a href="https://www.facebook.com/nicole.waldern" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-facebook-square font-black"></i>
+							</a>
+							<a href="https://ca.linkedin.com/pub/nicole-waldern/83/b76/104" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+							</a>
+							<a href="mailto:nwaldern@hotmail.com" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-envelope font-black"></i>
+							</a>
+						</div>
+					</div>
+				</li>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
+						<img src="img/Executive-Profiles/Brandon-Cochrane/headshot.jpg" width=100px class="executiveImage">
+						<h5 class="underline-white">Brandon Cochrane</h5>
+						<p class="font-italic">Communications</p>
+						<p class="text-left"><!-- Biography --></p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none">Connect with Brandon</p>
+						<div class="row floor">
+							<a href="https://www.facebook.com/brandon.cochrane" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-facebook-square font-black"></i>
+							</a>
+							<a href="https://ca.linkedin.com/in/brandoncochrane" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+							</a>
+							<a href="mailto:bcochrane11@gmail.com" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-envelope font-black"></i>
+							</a>
+						</div>
+					</div>
+				</li>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
+						<img src="img/Executive-Profiles/Amanda-Haynes/headshot.jpg" width=100px class="executiveImage">
+						<h5 class="underline-white">Amanda Haynes</h5>
+						<p class="font-italic">Internal</p>
+						<p class="text-left"><!-- Biography --></p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none">Connect with Amanda</p>
+						<div class="row floor">
+							<a href="https://www.facebook.com/amandamhaynes" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-facebook-square font-black"></i>
+							</a>
+							<a href="https://ca.linkedin.com/in/amandamariehaynes" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+							</a>
+							<a href="https://github.com/ahayn465" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-github-square font-black"></i>
+							</a>
+							
+							<a href="mailto:ahayn465@mtroyal.ca" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-envelope font-black"></i>
+							</a>
+
+						</div>
+					</div>
+				</li>
+				<li class="executive-card">
+					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
+						<img src="img/Executive-Profiles/Ryan-McLaughlin/RM_Temp_Headshot.jpg" width=100px class="executiveImage">
+						<h5 class="underline-white">Ryan McLaughlin</h5>
+						<p class="font-italic">Student Relations</p>
+						<p class="text-left"><!-- Biography --></p>
+					</div>
+					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
+						<p class="padding-bottom-none margin-bottom-none">Connect with Ryan</p>
+						<div class="row floor">
+							<a href="https://www.facebook.com/ryan.mclaughlin.5245" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-facebook-square font-black"></i>
+							</a>
+							<a href="https://ca.linkedin.com/in/ryanmclaughlin12" target="_blank" class="collapse">
+								<i class="icon-font-small fa fa-linkedin-square font-black"></i>
+							</a>
+							<a href="mailto:mclaughlin.ryan@live.com" target="_blank" class="collapse">
 								<i class="icon-font-small fa fa-envelope font-black"></i>
 							</a>
 						</div>
@@ -276,9 +261,5 @@
 					<p class="small-4 columns">Marcel Gruber</p>
 				</div>
 			</div>
-
-
-
-
 		</div>
 	</div>

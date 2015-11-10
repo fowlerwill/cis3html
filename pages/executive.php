@@ -60,7 +60,7 @@
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Priyash-Bista/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-white">Priyash Bista</h5>
-						<p class="font-italic">Vice President</p>
+						<p class="font-italic">Senior Vice President</p>
 						<p class="text-left">
 						</p>
 					</div>
@@ -86,7 +86,7 @@
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Brandon-Devaleriola/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-white">Brandon Devaleriola</h5>
-						<p class="font-italic">Finance</p>
+						<p class="font-italic">VP Finance</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
@@ -108,7 +108,7 @@
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Coulton-Fraser/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-white">Coulton Fraser</h5>
-						<p class="font-italic">Marketing</p>
+						<p class="font-italic">VP Marketing</p>
 						<p class="text-left"></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
@@ -135,7 +135,7 @@
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Nicole-Waldern/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-white">Nicole Waldern</h5>
-						<p class="font-italic">External</p>
+						<p class="font-italic">VP External</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
@@ -157,7 +157,7 @@
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Brandon-Cochrane/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-white">Brandon Cochrane</h5>
-						<p class="font-italic">Communications</p>
+						<p class="font-italic">VP Communications</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
@@ -179,7 +179,7 @@
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Amanda-Haynes/headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-white">Amanda Haynes</h5>
-						<p class="font-italic">Internal</p>
+						<p class="font-italic">VP Internal</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
@@ -206,7 +206,7 @@
 					<div class="panel text-center margin-bottom-none box-shadow" data-equalizer-watch>
 						<img src="img/Executive-Profiles/Ryan-McLaughlin/RM_Temp_Headshot.jpg" width=100px class="executiveImage">
 						<h5 class="underline-white">Ryan McLaughlin</h5>
-						<p class="font-italic">Student Relations</p>
+						<p class="font-italic">VP Student Relations</p>
 						<p class="text-left"><!-- Biography --></p>
 					</div>
 					<div class="panel text-center padding-top-none margin-top-none border-top-none box-shadow">
